@@ -1,118 +1,136 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nitumie Bob</title>
-    <link
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-      rel="stylesheet"
-    />
-    <link href="" rel="stylesheet" />
-    <!-- CSS only -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" ">
-    <script
-      type="text/javascript"
-      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"
-    ></script>
-    <style>
-      @import url("https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap");
-
-      body {
-        background-color: #eaedf4;
-        font-family: "Rubik", sans-serif;
-      }
-
-      .card {
-        width: 310px;
-        border: none;
-        border-radius: 15px;
-      }
-
-      .justify-content-around div {
-        border: none;
-        border-radius: 20px;
-        background: #f3f4f6;
-        padding: 5px 20px 5px;
-        color: #8d9297;
-      }
-
-      .justify-content-around span {
-        font-size: 12px;
-      }
-
-      .justify-content-around div:hover {
-        background: #545ebd;
-        color: #fff;
-        cursor: pointer;
-      }
-
-      .justify-content-around div:nth-child(1) {
-        background: #545ebd;
-        color: #fff;
-      }
-
-      span.mt-0 {
-        color: #8d9297;
-        font-size: 12px;
-      }
-
-      h6 {
-        font-size: 15px;
-      }
-      .mpesa {
-        background-color: green !important;
-      }
-
-      img {
-        border-radius: 15px;
-      }
-    </style>
-  </head>
-  <body oncontextmenu="return false" class="snippet-body">
-    <div class="container d-flex justify-content-center">
-      <div class="card mt-5 px-3 py-4">
-        <div class="d-flex flex-row justify-content-around">
-          <div class="mpesa"><span>Mpesa </span></div>
-          <div><span>Paypal</span></div>
-          <div><span>Card</span></div>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nitumie Bob</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background-color: #f5f5f5;
+    }
+    .message-container {
+      margin-bottom: 20px;
+    }
+    .success-message {
+      color: green;
+      font-weight: bold;
+      text-align: center;
+    }
+    .error-message {
+      color: red;
+      font-weight: bold;
+      text-align: center;
+    }
+    .card {
+      border-radius: 15px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    .btn-primary {
+      background-color: #6c63ff;
+      border-color: #6c63ff;
+    }
+    .btn-primary:hover {
+      background-color: #5c54d9;
+      border-color: #5c54d9;
+    }
+    .form-label {
+      font-weight: 600;
+    }
+    .form-control {
+      border-radius: 10px;
+      border-color: #e0e0e0;
+    }
+    .form-control:focus {
+      border-color: #6c63ff;
+      box-shadow: 0 0 0 0.25rem rgba(108, 99, 255, 0.25);
+    }
+    .mpesa-button {
+      background-color: #00b33c;
+      color: #fff;
+      border-radius: 10px;
+      padding: 0.5rem 1rem;
+      font-weight: 600;
+      transition: background-color 0.3s ease;
+    }
+    .mpesa-button:hover {
+      background-color: #009933;
+      color: #fff;
+    }
+  </style>
+</head>
+<body oncontextmenu="return false">
+  <div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
+    <div class="card p-4">
+      <div class="row">
+        <div class="col-12 text-center mb-4">
+          <h4 class="fw-bold">Make a Payment</h4>
         </div>
-        <div class="media mt-4 pl-2">
-          <img src="./images/1200px-M-PESA_LOGO-01.svg.png" class="mr-3" height="75" />
-          <div class="media-body">
-            <h6 class="mt-1">Enter Amount & Number</h6>
-          </div>
-        </div>
-        <div class="media mt-3 pl-2">
-                       
+      </div>
 
-            <form class="row g-3" action="./stk_initiate.php" method="POST">
-            
-                <div class="col-12">
-                  <label for="inputAddress" class="form-label">Amount</label>
-                  <input type="text" class="form-control" name="amount" placeholder="Enter Amount">
-                </div>
-                <div class="col-12">
-                  <label for="inputAddress2" class="form-label" >Phone Number</label>
-                  <input type="text" class="form-control" name="phone"  placeholder="Enter Phone Number">
-                </div>
-             
-                <div class="col-12">
-                  <button type="submit" class="btn btn-success" name="submit" value="submit">Make Payment</button>
-                </div>
-              </form>
-         
-          </div>
+     
+      <div class="row">
+        <div class="col-12 message-container">
+          <div id="message" class=""></div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-12">
+          <form class="row g-3" action="./stk_initiate.php" method="POST" id="payment-form">
+            <div class="col-12">
+              <label for="inputAddress" class="form-label">Amount</label>
+              <input type="number" class="form-control" name="amount" placeholder="Enter Amount" required>
+            </div>
+            <div class="col-12">
+              <label for="inputAddress2" class="form-label">Phone Number</label>
+              <input type="tel" class="form-control" name="phone" placeholder="Enter Phone Number" required>
+            </div>
+            <div class="col-12 text-center">
+              <button type="submit" class="btn btn-primary" name="submit" value="submit">Make Payment</button>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="row mt-3">
+        <div class="col-12 text-center">
+          <a href="#" class="mpesa-button">Pay with M-PESA</a>
         </div>
       </div>
     </div>
-    <script
-      type="text/javascript"
-      src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"
-    ></script>
-    <script type="text/javascript" src=""></script>
-    <script type="text/javascript" src=""></script>
-    <script type="text/Javascript"></script>
-  </body>
+  </div>
+
+  <script>
+    document.getElementById('payment-form').addEventListener('submit', function(event) {
+      event.preventDefault();
+
+      fetch('./stk_initiate.php', {
+        method: 'POST',
+        body: new FormData(event.target)
+      })
+      .then(response => response.json())
+      .then(data => {
+        const messageContainer = document.getElementById('message');
+        messageContainer.classList.remove('success-message', 'error-message');
+
+        if (data.ResponseCode === '0') {
+          messageContainer.classList.add('success-message');
+          messageContainer.textContent = `Payment Successful!\nCheckout Request ID: ${data.CheckoutRequestID}\nCustomer Message: ${data.CustomerMessage}`;
+        } else {
+          messageContainer.classList.add('error-message');
+          messageContainer.textContent = `Payment Failed!\nError: ${data.ResponseDescription || 'Unknown error'}`;
+        }
+      })
+      .catch(error => {
+        console.error('Error:', error);
+        const messageContainer = document.getElementById('message');
+        messageContainer.classList.add('error-message');
+        messageContainer.textContent = 'An error occurred while processing the payment. Please try again later.';
+      });
+    });
+  </script>
+</body>
 </html>
