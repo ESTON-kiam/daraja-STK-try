@@ -25,6 +25,12 @@ if (isset($_POST['submit'])) {
     curl_setopt($curl, CURLOPT_HEADER, FALSE);
     curl_setopt($curl, CURLOPT_USERPWD, $consumerKey . ':' . $consumerSecret);
     $result = curl_exec($curl);
+    if (curl_errno($curl)) {
+        $error_message = curl_error($curl);
+        echo json_encode(['ResponseDescription' => 'Curl error: ' . $error_message]);
+        curl_close($curl);
+        exit;
+    }
     curl_close($curl);
 
     
@@ -32,7 +38,6 @@ if (isset($_POST['submit'])) {
     if (isset($result->access_token)) {
         $access_token = $result->access_token;
 
-        
         $stkheader = ['Content-Type:application/json', 'Authorization:Bearer ' . $access_token];
         $curl_post_data = array(
             'BusinessShortCode' => $BusinessShortCode,
@@ -64,12 +69,29 @@ if (isset($_POST['submit'])) {
         }
         curl_close($curl);
 
-        
+        if(empty($curl_response)) {
+            echo json_encode(['ResponseDescription' => 'empty response']);
+            exit;
+        }
         $response_data = json_decode($curl_response);
 
+        if($response_data===null){
+            echo json_encode(['ResponseDescription' => 'error decoding json']);
+            exit;
+        }
         
         header('Content-Type: application/json');
-        echo json_encode($response_data);
+        if($response_data && isset($response_data->ResponseCode) && $response_data->ResponseCode == '0'){
+            echo json_encode([
+                'ResponseCode' => '0',
+                'CheckoutRequestID'=> $response_data->CheckoutRequestID,
+                'CustomerMessage'=> $response_data->CustomerMessage,
+            ]);
+        } else{
+            echo json_encode([
+                'ResponseDescription'=> $response_data->errorMessage ?? 'Unknown Error',
+            ]);
+        }
     } else {
         echo json_encode(['ResponseDescription' => 'Error fetching access token']);
     }

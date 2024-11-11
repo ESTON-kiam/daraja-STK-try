@@ -80,14 +80,14 @@
 
       <div class="row">
         <div class="col-12">
-          <form class="row g-3" action="./stk_initiate.php" method="POST" id="payment-form">
+          <form class="row g-3" method="POST" id="payment-form">
             <div class="col-12">
               <label for="inputAddress" class="form-label">Amount</label>
-              <input type="number" class="form-control" name="amount" placeholder="Enter Amount" required>
+              <input type="number" class="form-control" name="amount" id="amount" placeholder="Enter Amount" required>
             </div>
             <div class="col-12">
               <label for="inputAddress2" class="form-label">Phone Number</label>
-              <input type="tel" class="form-control" name="phone" placeholder="Enter Phone Number" required>
+              <input type="tel" class="form-control" name="phone" id="phone" placeholder="Enter Phone Number" required>
             </div>
             <div class="col-12 text-center">
               <button type="submit" class="btn btn-primary" name="submit" value="submit">Make Payment</button>
@@ -104,33 +104,61 @@
   </div>
 
   <script>
-    document.getElementById('payment-form').addEventListener('submit', function(event) {
-      event.preventDefault();
+document.getElementById('payment-form').addEventListener('submit', function(event) {
+    event.preventDefault();
 
-      fetch('./stk_initiate.php', {
+    // Get the form data
+    const phone = document.getElementById('phone').value;
+    const amount = document.getElementById('amount').value;
+
+    // Prepare the data to send in the request
+    const data = {
+        phone: phone,
+        amount: amount,
+    };
+
+    // Send the POST request using Fetch API
+    fetch('/stk_initiate.php', {
         method: 'POST',
-        body: new FormData(event.target)
-      })
-      .then(response => response.json())
-      .then(data => {
-        const messageContainer = document.getElementById('message');
-        messageContainer.classList.remove('success-message', 'error-message');
-
-        if (data.ResponseCode === '0') {
-          messageContainer.classList.add('success-message');
-          messageContainer.textContent = `Payment Successful!\nCheckout Request ID: ${data.CheckoutRequestID}\nCustomer Message: ${data.CustomerMessage}`;
-        } else {
-          messageContainer.classList.add('error-message');
-          messageContainer.textContent = `Payment Failed!\nError: ${data.ResponseDescription || 'Unknown error'}`;
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data),
+    })
+    .then(response => {
+        // Check if the response is OK (status 200)
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
         }
-      })
-      .catch(error => {
+
+        // Log the raw response body
+        return response.text();  // First, get it as text to avoid JSON parse errors
+    })
+    .then(text => {
+        if (text) {
+            try {
+                // Now attempt to parse the response as JSON
+                const jsonResponse = JSON.parse(text);
+
+                // Handle the parsed response
+                console.log('Parsed response:', jsonResponse);
+                if (jsonResponse.ResponseCode === '0') {
+                    alert('Payment initiated successfully: ' + jsonResponse.CustomerMessage);
+                } else {
+                    alert('Error: ' + (jsonResponse.ResponseDescription || 'Unknown error'));
+                }
+            } catch (e) {
+                console.error('Error parsing JSON:', e);
+            }
+        } else {
+            throw new Error('Empty response from server');
+        }
+    })
+    .catch(error => {
         console.error('Error:', error);
-        const messageContainer = document.getElementById('message');
-        messageContainer.classList.add('error-message');
-        messageContainer.textContent = 'An error occurred while processing the payment. Please try again later.';
-      });
+        alert('There was an error with the payment initiation');
     });
-  </script>
+});
+</script>
 </body>
 </html>
