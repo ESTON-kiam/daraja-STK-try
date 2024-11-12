@@ -22,6 +22,9 @@
 
                     <div class="alert alert-success" role="alert" id="success-message" style="display: none;"></div>
                     <div class="alert alert-danger" role="alert" id="error-message" style="display: none;"></div>
+                    <div class="alert alert-warning" role="alert" id="warning-message" style="display: none;">
+                        Payment was not successful. Please try again.
+                    </div>
                     <div class="loading" id="loading" style="display: none;">
                         Processing payment...
                     </div>
@@ -57,6 +60,7 @@
             
             document.getElementById('success-message').style.display = 'none';
             document.getElementById('error-message').style.display = 'none';
+            document.getElementById('warning-message').style.display = 'none';
             document.getElementById('loading').style.display = 'block';
             document.getElementById('submit-btn').disabled = true;
 
@@ -96,13 +100,14 @@
                     showSuccess(data.CustomerMessage);
                     document.getElementById('payment-form').reset();
                 } else {
-                    showError(data.ResponseDescription || 'An error occurred processing the payment');
+                    showWarning('Payment was not successful. Please try again.');
+                    console.error('Payment Error:', data.ResponseDescription);
                 }
             })
             .catch(error => {
                 document.getElementById('loading').style.display = 'none';
                 document.getElementById('submit-btn').disabled = false;
-                showError('There was an error processing your payment. Please try again.');
+                showWarning('There was an error processing your payment. Please try again.');
                 console.error('Payment Error:', error);
             });
         });
@@ -119,6 +124,13 @@
             errorDiv.textContent = message;
             errorDiv.style.display = 'block';
             errorDiv.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+
+        function showWarning(message) {
+            const warningDiv = document.getElementById('warning-message');
+            warningDiv.textContent = message;
+            warningDiv.style.display = 'block';
+            warningDiv.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
     </script>
 </body>
