@@ -1,0 +1,1629 @@
+[2024-11-12 13:37:47] Starting transaction fetch
+[2024-11-12 13:37:47] Database connected successfully
+[2024-11-12 13:37:47] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:37:47] No transactions found
+[2024-11-12 13:37:47] Database connection closed
+[2024-11-12 13:37:47] Sending response: []
+[2024-11-12 13:37:48] Starting transaction fetch
+[2024-11-12 13:37:48] Database connected successfully
+[2024-11-12 13:37:48] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:37:48] No transactions found
+[2024-11-12 13:37:48] Database connection closed
+[2024-11-12 13:37:48] Sending response: []
+[2024-11-12 13:37:58] Starting transaction fetch
+[2024-11-12 13:37:58] Database connected successfully
+[2024-11-12 13:37:58] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:37:58] No transactions found
+[2024-11-12 13:37:58] Database connection closed
+[2024-11-12 13:37:58] Sending response: []
+[2024-11-12 13:38:03] Starting transaction fetch
+[2024-11-12 13:38:03] Database connected successfully
+[2024-11-12 13:38:03] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:38:03] No transactions found
+[2024-11-12 13:38:03] Database connection closed
+[2024-11-12 13:38:03] Sending response: []
+[2024-11-12 13:38:13] Starting transaction fetch
+[2024-11-12 13:38:13] Database connected successfully
+[2024-11-12 13:38:13] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:38:13] No transactions found
+[2024-11-12 13:38:13] Database connection closed
+[2024-11-12 13:38:13] Sending response: []
+[2024-11-12 13:38:19] Starting transaction fetch
+[2024-11-12 13:38:19] Database connected successfully
+[2024-11-12 13:38:19] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:38:19] No transactions found
+[2024-11-12 13:38:19] Database connection closed
+[2024-11-12 13:38:19] Sending response: []
+[2024-11-12 13:38:22] Starting transaction fetch
+[2024-11-12 13:38:22] Database connected successfully
+[2024-11-12 13:38:22] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:38:22] No transactions found
+[2024-11-12 13:38:22] Database connection closed
+[2024-11-12 13:38:22] Sending response: []
+[2024-11-12 13:38:23] Starting transaction fetch
+[2024-11-12 13:38:23] Database connected successfully
+[2024-11-12 13:38:23] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:38:23] No transactions found
+[2024-11-12 13:38:23] Database connection closed
+[2024-11-12 13:38:23] Sending response: []
+[2024-11-12 13:38:24] Starting transaction fetch
+[2024-11-12 13:38:24] Database connected successfully
+[2024-11-12 13:38:24] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:38:24] No transactions found
+[2024-11-12 13:38:24] Database connection closed
+[2024-11-12 13:38:24] Sending response: []
+[2024-11-12 13:38:55] Starting transaction fetch
+[2024-11-12 13:38:55] Database connected successfully
+[2024-11-12 13:38:55] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:38:55] No transactions found
+[2024-11-12 13:38:55] Database connection closed
+[2024-11-12 13:38:55] Sending response: []
+[2024-11-12 13:39:25] Starting transaction fetch
+[2024-11-12 13:39:25] Database connected successfully
+[2024-11-12 13:39:25] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:39:25] No transactions found
+[2024-11-12 13:39:25] Database connection closed
+[2024-11-12 13:39:25] Sending response: []
+[2024-11-12 13:39:55] Starting transaction fetch
+[2024-11-12 13:39:55] Database connected successfully
+[2024-11-12 13:39:55] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:39:55] No transactions found
+[2024-11-12 13:39:55] Database connection closed
+[2024-11-12 13:39:55] Sending response: []
+[2024-11-12 13:40:25] Starting transaction fetch
+[2024-11-12 13:40:25] Database connected successfully
+[2024-11-12 13:40:25] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:40:25] No transactions found
+[2024-11-12 13:40:25] Database connection closed
+[2024-11-12 13:40:25] Sending response: []
+[2024-11-12 13:40:55] Starting transaction fetch
+[2024-11-12 13:40:55] Database connected successfully
+[2024-11-12 13:40:55] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:40:55] No transactions found
+[2024-11-12 13:40:55] Database connection closed
+[2024-11-12 13:40:55] Sending response: []
+[2024-11-12 13:44:39] Starting transaction fetch
+[2024-11-12 13:44:39] Database connected successfully
+[2024-11-12 13:44:39] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:44:39] No transactions found
+[2024-11-12 13:44:39] Database connection closed
+[2024-11-12 13:44:39] Sending response: []
+[2024-11-12 13:45:12] Starting transaction fetch
+[2024-11-12 13:45:12] Database connected successfully
+[2024-11-12 13:45:12] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:45:12] No transactions found
+[2024-11-12 13:45:12] Database connection closed
+[2024-11-12 13:45:12] Sending response: []
+[2024-11-12 13:45:17] Starting transaction fetch
+[2024-11-12 13:45:17] Database connected successfully
+[2024-11-12 13:45:17] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:45:17] No transactions found
+[2024-11-12 13:45:17] Database connection closed
+[2024-11-12 13:45:17] Sending response: []
+[2024-11-12 13:46:08] Starting transaction fetch
+[2024-11-12 13:46:08] Database connected successfully
+[2024-11-12 13:46:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:46:08] No transactions found
+[2024-11-12 13:46:08] Database connection closed
+[2024-11-12 13:46:08] Sending response: []
+[2024-11-12 13:47:24] Starting transaction fetch
+[2024-11-12 13:47:24] Database connected successfully
+[2024-11-12 13:47:24] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:47:24] No transactions found
+[2024-11-12 13:47:24] Database connection closed
+[2024-11-12 13:47:24] Sending response: []
+[2024-11-12 13:47:55] Starting transaction fetch
+[2024-11-12 13:47:55] Database connected successfully
+[2024-11-12 13:47:55] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:47:55] No transactions found
+[2024-11-12 13:47:55] Database connection closed
+[2024-11-12 13:47:55] Sending response: []
+[2024-11-12 13:48:25] Starting transaction fetch
+[2024-11-12 13:48:25] Database connected successfully
+[2024-11-12 13:48:25] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:48:25] No transactions found
+[2024-11-12 13:48:25] Database connection closed
+[2024-11-12 13:48:25] Sending response: []
+[2024-11-12 13:48:55] Starting transaction fetch
+[2024-11-12 13:48:55] Database connected successfully
+[2024-11-12 13:48:55] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:48:55] No transactions found
+[2024-11-12 13:48:55] Database connection closed
+[2024-11-12 13:48:55] Sending response: []
+[2024-11-12 13:49:25] Starting transaction fetch
+[2024-11-12 13:49:25] Database connected successfully
+[2024-11-12 13:49:25] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:49:25] No transactions found
+[2024-11-12 13:49:25] Database connection closed
+[2024-11-12 13:49:25] Sending response: []
+[2024-11-12 13:49:55] Starting transaction fetch
+[2024-11-12 13:49:55] Database connected successfully
+[2024-11-12 13:49:55] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:49:55] No transactions found
+[2024-11-12 13:49:55] Database connection closed
+[2024-11-12 13:49:55] Sending response: []
+[2024-11-12 13:50:56] Starting transaction fetch
+[2024-11-12 13:50:56] Database connected successfully
+[2024-11-12 13:50:56] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:50:56] No transactions found
+[2024-11-12 13:50:56] Database connection closed
+[2024-11-12 13:50:56] Sending response: []
+[2024-11-12 13:51:57] Starting transaction fetch
+[2024-11-12 13:51:57] Database connected successfully
+[2024-11-12 13:51:57] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:51:57] No transactions found
+[2024-11-12 13:51:57] Database connection closed
+[2024-11-12 13:51:57] Sending response: []
+[2024-11-12 13:52:58] Starting transaction fetch
+[2024-11-12 13:52:58] Database connected successfully
+[2024-11-12 13:52:58] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:52:58] No transactions found
+[2024-11-12 13:52:58] Database connection closed
+[2024-11-12 13:52:58] Sending response: []
+[2024-11-12 13:53:59] Starting transaction fetch
+[2024-11-12 13:53:59] Database connected successfully
+[2024-11-12 13:53:59] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:53:59] No transactions found
+[2024-11-12 13:53:59] Database connection closed
+[2024-11-12 13:53:59] Sending response: []
+[2024-11-12 13:55:00] Starting transaction fetch
+[2024-11-12 13:55:00] Database connected successfully
+[2024-11-12 13:55:00] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:55:00] No transactions found
+[2024-11-12 13:55:00] Database connection closed
+[2024-11-12 13:55:00] Sending response: []
+[2024-11-12 13:56:01] Starting transaction fetch
+[2024-11-12 13:56:01] Database connected successfully
+[2024-11-12 13:56:01] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:56:01] No transactions found
+[2024-11-12 13:56:01] Database connection closed
+[2024-11-12 13:56:01] Sending response: []
+[2024-11-12 13:57:02] Starting transaction fetch
+[2024-11-12 13:57:02] Database connected successfully
+[2024-11-12 13:57:02] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:57:02] No transactions found
+[2024-11-12 13:57:02] Database connection closed
+[2024-11-12 13:57:02] Sending response: []
+[2024-11-12 13:57:50] Starting transaction fetch
+[2024-11-12 13:57:50] Database connected successfully
+[2024-11-12 13:57:50] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:57:50] No transactions found
+[2024-11-12 13:57:50] Database connection closed
+[2024-11-12 13:57:50] Sending response: []
+[2024-11-12 13:57:52] Starting transaction fetch
+[2024-11-12 13:57:52] Database connected successfully
+[2024-11-12 13:57:52] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:57:52] No transactions found
+[2024-11-12 13:57:52] Database connection closed
+[2024-11-12 13:57:52] Sending response: []
+[2024-11-12 13:58:29] Starting transaction fetch
+[2024-11-12 13:58:29] Database connected successfully
+[2024-11-12 13:58:29] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:58:29] No transactions found
+[2024-11-12 13:58:29] Database connection closed
+[2024-11-12 13:58:29] Sending response: []
+[2024-11-12 13:58:59] Starting transaction fetch
+[2024-11-12 13:58:59] Database connected successfully
+[2024-11-12 13:58:59] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:58:59] No transactions found
+[2024-11-12 13:58:59] Database connection closed
+[2024-11-12 13:58:59] Sending response: []
+[2024-11-12 13:59:29] Starting transaction fetch
+[2024-11-12 13:59:29] Database connected successfully
+[2024-11-12 13:59:29] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:59:29] No transactions found
+[2024-11-12 13:59:29] Database connection closed
+[2024-11-12 13:59:29] Sending response: []
+[2024-11-12 13:59:59] Starting transaction fetch
+[2024-11-12 13:59:59] Database connected successfully
+[2024-11-12 13:59:59] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 13:59:59] No transactions found
+[2024-11-12 13:59:59] Database connection closed
+[2024-11-12 13:59:59] Sending response: []
+[2024-11-12 14:00:29] Starting transaction fetch
+[2024-11-12 14:00:29] Database connected successfully
+[2024-11-12 14:00:29] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:00:29] No transactions found
+[2024-11-12 14:00:29] Database connection closed
+[2024-11-12 14:00:29] Sending response: []
+[2024-11-12 14:00:59] Starting transaction fetch
+[2024-11-12 14:00:59] Database connected successfully
+[2024-11-12 14:00:59] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:00:59] No transactions found
+[2024-11-12 14:00:59] Database connection closed
+[2024-11-12 14:00:59] Sending response: []
+[2024-11-12 14:01:26] Starting transaction fetch
+[2024-11-12 14:01:26] Database connected successfully
+[2024-11-12 14:01:26] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:01:26] No transactions found
+[2024-11-12 14:01:26] Database connection closed
+[2024-11-12 14:01:26] Sending response: []
+[2024-11-12 14:06:39] Starting transaction fetch
+[2024-11-12 14:06:39] Database connected successfully
+[2024-11-12 14:06:39] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:06:39] Found 1 transactions
+[2024-11-12 14:06:39] Database connection closed
+[2024-11-12 14:06:39] Sending response: [{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:07:09] Starting transaction fetch
+[2024-11-12 14:07:09] Database connected successfully
+[2024-11-12 14:07:09] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:07:09] Found 1 transactions
+[2024-11-12 14:07:09] Database connection closed
+[2024-11-12 14:07:09] Sending response: [{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:07:40] Starting transaction fetch
+[2024-11-12 14:07:40] Database connected successfully
+[2024-11-12 14:07:40] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:07:40] Found 1 transactions
+[2024-11-12 14:07:40] Database connection closed
+[2024-11-12 14:07:40] Sending response: [{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:08:09] Starting transaction fetch
+[2024-11-12 14:08:09] Database connected successfully
+[2024-11-12 14:08:09] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:08:09] Found 1 transactions
+[2024-11-12 14:08:09] Database connection closed
+[2024-11-12 14:08:09] Sending response: [{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:08:39] Starting transaction fetch
+[2024-11-12 14:08:39] Database connected successfully
+[2024-11-12 14:08:39] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:08:39] Found 1 transactions
+[2024-11-12 14:08:39] Database connection closed
+[2024-11-12 14:08:39] Sending response: [{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:09:09] Starting transaction fetch
+[2024-11-12 14:09:09] Database connected successfully
+[2024-11-12 14:09:09] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:09:09] Found 1 transactions
+[2024-11-12 14:09:09] Database connection closed
+[2024-11-12 14:09:09] Sending response: [{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:09:39] Starting transaction fetch
+[2024-11-12 14:09:39] Database connected successfully
+[2024-11-12 14:09:39] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:09:39] Found 1 transactions
+[2024-11-12 14:09:39] Database connection closed
+[2024-11-12 14:09:39] Sending response: [{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:11:17] Starting transaction fetch
+[2024-11-12 14:11:17] Database connected successfully
+[2024-11-12 14:11:17] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:11:17] Found 2 transactions
+[2024-11-12 14:11:17] Database connection closed
+[2024-11-12 14:11:17] Sending response: [{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:11:47] Starting transaction fetch
+[2024-11-12 14:11:47] Database connected successfully
+[2024-11-12 14:11:47] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:11:47] Found 2 transactions
+[2024-11-12 14:11:47] Database connection closed
+[2024-11-12 14:11:47] Sending response: [{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:12:36] Starting transaction fetch
+[2024-11-12 14:12:36] Database connected successfully
+[2024-11-12 14:12:36] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:12:36] Found 3 transactions
+[2024-11-12 14:12:36] Database connection closed
+[2024-11-12 14:12:36] Sending response: [{"transaction_id":"ws_CO_12112024161240465757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:05"},{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:12:38] Starting transaction fetch
+[2024-11-12 14:12:38] Database connected successfully
+[2024-11-12 14:12:38] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:12:38] Found 3 transactions
+[2024-11-12 14:12:38] Database connection closed
+[2024-11-12 14:12:38] Sending response: [{"transaction_id":"ws_CO_12112024161240465757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:05"},{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:12:39] Starting transaction fetch
+[2024-11-12 14:12:39] Database connected successfully
+[2024-11-12 14:12:39] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:12:39] Found 3 transactions
+[2024-11-12 14:12:39] Database connection closed
+[2024-11-12 14:12:39] Sending response: [{"transaction_id":"ws_CO_12112024161240465757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:05"},{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:13:03] Starting transaction fetch
+[2024-11-12 14:13:03] Database connected successfully
+[2024-11-12 14:13:03] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:13:03] Found 4 transactions
+[2024-11-12 14:13:03] Database connection closed
+[2024-11-12 14:13:03] Sending response: [{"transaction_id":"ws_CO_12112024161330693757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:52"},{"transaction_id":"ws_CO_12112024161240465757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:05"},{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:13:34] Starting transaction fetch
+[2024-11-12 14:13:34] Database connected successfully
+[2024-11-12 14:13:34] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:13:34] Found 4 transactions
+[2024-11-12 14:13:34] Database connection closed
+[2024-11-12 14:13:34] Sending response: [{"transaction_id":"ws_CO_12112024161330693757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:52"},{"transaction_id":"ws_CO_12112024161240465757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:05"},{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:14:04] Starting transaction fetch
+[2024-11-12 14:14:04] Database connected successfully
+[2024-11-12 14:14:04] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:14:04] Found 4 transactions
+[2024-11-12 14:14:04] Database connection closed
+[2024-11-12 14:14:04] Sending response: [{"transaction_id":"ws_CO_12112024161330693757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:52"},{"transaction_id":"ws_CO_12112024161240465757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:05"},{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:14:34] Starting transaction fetch
+[2024-11-12 14:14:34] Database connected successfully
+[2024-11-12 14:14:34] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:14:34] Found 4 transactions
+[2024-11-12 14:14:34] Database connection closed
+[2024-11-12 14:14:34] Sending response: [{"transaction_id":"ws_CO_12112024161330693757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:52"},{"transaction_id":"ws_CO_12112024161240465757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:05"},{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:15:04] Starting transaction fetch
+[2024-11-12 14:15:04] Database connected successfully
+[2024-11-12 14:15:04] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:15:04] Found 4 transactions
+[2024-11-12 14:15:04] Database connection closed
+[2024-11-12 14:15:04] Sending response: [{"transaction_id":"ws_CO_12112024161330693757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:52"},{"transaction_id":"ws_CO_12112024161240465757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:05"},{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:15:34] Starting transaction fetch
+[2024-11-12 14:15:34] Database connected successfully
+[2024-11-12 14:15:34] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:15:34] Found 4 transactions
+[2024-11-12 14:15:34] Database connection closed
+[2024-11-12 14:15:34] Sending response: [{"transaction_id":"ws_CO_12112024161330693757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:52"},{"transaction_id":"ws_CO_12112024161240465757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:05"},{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:16:14] Starting transaction fetch
+[2024-11-12 14:16:14] Database connected successfully
+[2024-11-12 14:16:14] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:16:14] Found 4 transactions
+[2024-11-12 14:16:14] Database connection closed
+[2024-11-12 14:16:14] Sending response: [{"transaction_id":"ws_CO_12112024161330693757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:52"},{"transaction_id":"ws_CO_12112024161240465757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:05"},{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:17:08] Starting transaction fetch
+[2024-11-12 14:17:08] Database connected successfully
+[2024-11-12 14:17:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:17:08] Found 4 transactions
+[2024-11-12 14:17:08] Database connection closed
+[2024-11-12 14:17:08] Sending response: [{"transaction_id":"ws_CO_12112024161330693757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:52"},{"transaction_id":"ws_CO_12112024161240465757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:05"},{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:18:08] Starting transaction fetch
+[2024-11-12 14:18:08] Database connected successfully
+[2024-11-12 14:18:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:18:08] Found 4 transactions
+[2024-11-12 14:18:08] Database connection closed
+[2024-11-12 14:18:08] Sending response: [{"transaction_id":"ws_CO_12112024161330693757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:52"},{"transaction_id":"ws_CO_12112024161240465757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:05"},{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:19:08] Starting transaction fetch
+[2024-11-12 14:19:08] Database connected successfully
+[2024-11-12 14:19:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:19:08] Found 4 transactions
+[2024-11-12 14:19:08] Database connection closed
+[2024-11-12 14:19:08] Sending response: [{"transaction_id":"ws_CO_12112024161330693757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:52"},{"transaction_id":"ws_CO_12112024161240465757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:12:05"},{"transaction_id":"ws_CO_12112024161044765758039176","phone_number":"254758039176","amount":"1.00","payment_date":"2024-11-12 16:10:06"},{"transaction_id":"ws_CO_12112024160631501757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:05:53"}]
+[2024-11-12 14:20:08] Starting transaction fetch
+[2024-11-12 14:20:08] Database connected successfully
+[2024-11-12 14:20:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:20:08] No transactions found
+[2024-11-12 14:20:08] Database connection closed
+[2024-11-12 14:20:08] Sending response: []
+[2024-11-12 14:20:56] Starting transaction fetch
+[2024-11-12 14:20:56] Database connected successfully
+[2024-11-12 14:20:56] Executing query: SELECT transaction_id, phone_number, amount, payment_date
+          FROM mpesa_payments
+          ORDER BY payment_date DESC
+          LIMIT 10
+[2024-11-12 14:20:56] No transactions found
+[2024-11-12 14:20:56] Database connection closed
+[2024-11-12 14:20:56] Sending response: []
+[2024-11-12 14:20:57] Starting transaction fetch
+[2024-11-12 14:20:57] Database connected successfully
+[2024-11-12 14:20:57] Executing query: SELECT transaction_id, phone_number, amount, payment_date
+          FROM mpesa_payments
+          ORDER BY payment_date DESC
+          LIMIT 10
+[2024-11-12 14:20:57] No transactions found
+[2024-11-12 14:20:57] Database connection closed
+[2024-11-12 14:20:57] Sending response: []
+[2024-11-12 14:20:58] Starting transaction fetch
+[2024-11-12 14:20:58] Database connected successfully
+[2024-11-12 14:20:58] Executing query: SELECT transaction_id, phone_number, amount, payment_date
+          FROM mpesa_payments
+          ORDER BY payment_date DESC
+          LIMIT 10
+[2024-11-12 14:20:58] No transactions found
+[2024-11-12 14:20:58] Database connection closed
+[2024-11-12 14:20:58] Sending response: []
+[2024-11-12 14:21:27] Starting transaction fetch
+[2024-11-12 14:21:27] Database connected successfully
+[2024-11-12 14:21:27] Executing query: SELECT transaction_id, phone_number, amount, payment_date
+          FROM mpesa_payments
+          ORDER BY payment_date DESC
+          LIMIT 10
+[2024-11-12 14:21:27] Found 1 transactions
+[2024-11-12 14:21:27] Database connection closed
+[2024-11-12 14:21:27] Sending response: [{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:21:58] Starting transaction fetch
+[2024-11-12 14:21:58] Database connected successfully
+[2024-11-12 14:21:58] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:21:58] Found 1 transactions
+[2024-11-12 14:21:58] Database connection closed
+[2024-11-12 14:21:58] Sending response: [{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:22:28] Starting transaction fetch
+[2024-11-12 14:22:28] Database connected successfully
+[2024-11-12 14:22:28] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:22:28] Found 1 transactions
+[2024-11-12 14:22:28] Database connection closed
+[2024-11-12 14:22:28] Sending response: [{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:22:58] Starting transaction fetch
+[2024-11-12 14:22:58] Database connected successfully
+[2024-11-12 14:22:58] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:22:58] Found 1 transactions
+[2024-11-12 14:22:58] Database connection closed
+[2024-11-12 14:22:58] Sending response: [{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:23:28] Starting transaction fetch
+[2024-11-12 14:23:28] Database connected successfully
+[2024-11-12 14:23:28] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:23:28] Found 1 transactions
+[2024-11-12 14:23:28] Database connection closed
+[2024-11-12 14:23:28] Sending response: [{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:23:56] Starting transaction fetch
+[2024-11-12 14:23:56] Database connected successfully
+[2024-11-12 14:23:56] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:23:56] Found 1 transactions
+[2024-11-12 14:23:56] Database connection closed
+[2024-11-12 14:23:56] Sending response: [{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:24:08] Starting transaction fetch
+[2024-11-12 14:24:08] Database connected successfully
+[2024-11-12 14:24:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:24:08] Found 2 transactions
+[2024-11-12 14:24:08] Database connection closed
+[2024-11-12 14:24:08] Sending response: [{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:24:10] Starting transaction fetch
+[2024-11-12 14:24:10] Database connected successfully
+[2024-11-12 14:24:10] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:24:10] Found 2 transactions
+[2024-11-12 14:24:10] Database connection closed
+[2024-11-12 14:24:10] Sending response: [{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:24:40] Starting transaction fetch
+[2024-11-12 14:24:40] Database connected successfully
+[2024-11-12 14:24:40] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:24:40] Found 2 transactions
+[2024-11-12 14:24:40] Database connection closed
+[2024-11-12 14:24:40] Sending response: [{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:25:10] Starting transaction fetch
+[2024-11-12 14:25:10] Database connected successfully
+[2024-11-12 14:25:10] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:25:10] Found 2 transactions
+[2024-11-12 14:25:10] Database connection closed
+[2024-11-12 14:25:10] Sending response: [{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:25:40] Starting transaction fetch
+[2024-11-12 14:25:40] Database connected successfully
+[2024-11-12 14:25:40] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:25:40] Found 2 transactions
+[2024-11-12 14:25:40] Database connection closed
+[2024-11-12 14:25:40] Sending response: [{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:26:14] Starting transaction fetch
+[2024-11-12 14:26:14] Database connected successfully
+[2024-11-12 14:26:14] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:26:14] Found 3 transactions
+[2024-11-12 14:26:14] Database connection closed
+[2024-11-12 14:26:14] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:26:44] Starting transaction fetch
+[2024-11-12 14:26:44] Database connected successfully
+[2024-11-12 14:26:44] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:26:44] Found 3 transactions
+[2024-11-12 14:26:44] Database connection closed
+[2024-11-12 14:26:44] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:26:48] Starting transaction fetch
+[2024-11-12 14:26:48] Database connected successfully
+[2024-11-12 14:26:48] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:26:48] Found 3 transactions
+[2024-11-12 14:26:48] Database connection closed
+[2024-11-12 14:26:48] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:26:49] Starting transaction fetch
+[2024-11-12 14:26:49] Database connected successfully
+[2024-11-12 14:26:49] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:26:49] Found 3 transactions
+[2024-11-12 14:26:49] Database connection closed
+[2024-11-12 14:26:49] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:26:49] Starting transaction fetch
+[2024-11-12 14:26:49] Database connected successfully
+[2024-11-12 14:26:49] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:26:49] Found 3 transactions
+[2024-11-12 14:26:49] Database connection closed
+[2024-11-12 14:26:49] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:27:20] Starting transaction fetch
+[2024-11-12 14:27:20] Database connected successfully
+[2024-11-12 14:27:20] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:27:20] Found 3 transactions
+[2024-11-12 14:27:20] Database connection closed
+[2024-11-12 14:27:20] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:27:50] Starting transaction fetch
+[2024-11-12 14:27:50] Database connected successfully
+[2024-11-12 14:27:50] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:27:50] Found 3 transactions
+[2024-11-12 14:27:50] Database connection closed
+[2024-11-12 14:27:50] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:28:20] Starting transaction fetch
+[2024-11-12 14:28:20] Database connected successfully
+[2024-11-12 14:28:20] Executing query: SELECT transaction_id, phone_number, amount, payment_date 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:28:20] Found 3 transactions
+[2024-11-12 14:28:20] Database connection closed
+[2024-11-12 14:28:20] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03"}]
+[2024-11-12 14:28:43] Starting transaction fetch
+[2024-11-12 14:28:43] Database connected successfully
+[2024-11-12 14:28:43] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:28:43] Found 3 transactions
+[2024-11-12 14:28:43] Database connection closed
+[2024-11-12 14:28:43] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:28:44] Starting transaction fetch
+[2024-11-12 14:28:44] Database connected successfully
+[2024-11-12 14:28:44] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:28:44] Found 3 transactions
+[2024-11-12 14:28:44] Database connection closed
+[2024-11-12 14:28:44] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:29:15] Starting transaction fetch
+[2024-11-12 14:29:15] Database connected successfully
+[2024-11-12 14:29:15] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:29:15] Found 3 transactions
+[2024-11-12 14:29:15] Database connection closed
+[2024-11-12 14:29:15] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:29:45] Starting transaction fetch
+[2024-11-12 14:29:45] Database connected successfully
+[2024-11-12 14:29:45] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:29:45] Found 3 transactions
+[2024-11-12 14:29:45] Database connection closed
+[2024-11-12 14:29:45] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:30:15] Starting transaction fetch
+[2024-11-12 14:30:15] Database connected successfully
+[2024-11-12 14:30:15] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:30:15] Found 3 transactions
+[2024-11-12 14:30:15] Database connection closed
+[2024-11-12 14:30:15] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:30:45] Starting transaction fetch
+[2024-11-12 14:30:45] Database connected successfully
+[2024-11-12 14:30:45] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:30:45] Found 3 transactions
+[2024-11-12 14:30:45] Database connection closed
+[2024-11-12 14:30:45] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:30:58] Starting transaction fetch
+[2024-11-12 14:30:58] Database connected successfully
+[2024-11-12 14:30:58] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:30:58] Found 3 transactions
+[2024-11-12 14:30:58] Database connection closed
+[2024-11-12 14:30:58] Sending response: [{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:31:22] Starting transaction fetch
+[2024-11-12 14:31:22] Database connected successfully
+[2024-11-12 14:31:22] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:31:22] Found 4 transactions
+[2024-11-12 14:31:22] Database connection closed
+[2024-11-12 14:31:22] Sending response: [{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:31:25] Starting transaction fetch
+[2024-11-12 14:31:25] Database connected successfully
+[2024-11-12 14:31:25] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:31:25] Found 4 transactions
+[2024-11-12 14:31:25] Database connection closed
+[2024-11-12 14:31:25] Sending response: [{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:31:57] Starting transaction fetch
+[2024-11-12 14:31:57] Database connected successfully
+[2024-11-12 14:31:57] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:31:57] Found 4 transactions
+[2024-11-12 14:31:57] Database connection closed
+[2024-11-12 14:31:57] Sending response: [{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:32:26] Starting transaction fetch
+[2024-11-12 14:32:26] Database connected successfully
+[2024-11-12 14:32:26] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:32:26] Found 4 transactions
+[2024-11-12 14:32:26] Database connection closed
+[2024-11-12 14:32:26] Sending response: [{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:32:56] Starting transaction fetch
+[2024-11-12 14:32:56] Database connected successfully
+[2024-11-12 14:32:56] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:32:56] Found 4 transactions
+[2024-11-12 14:32:56] Database connection closed
+[2024-11-12 14:32:56] Sending response: [{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:33:26] Starting transaction fetch
+[2024-11-12 14:33:26] Database connected successfully
+[2024-11-12 14:33:26] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:33:26] Found 4 transactions
+[2024-11-12 14:33:26] Database connection closed
+[2024-11-12 14:33:26] Sending response: [{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:33:56] Starting transaction fetch
+[2024-11-12 14:33:56] Database connected successfully
+[2024-11-12 14:33:56] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:33:56] Found 4 transactions
+[2024-11-12 14:33:56] Database connection closed
+[2024-11-12 14:33:56] Sending response: [{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:34:35] Starting transaction fetch
+[2024-11-12 14:34:35] Database connected successfully
+[2024-11-12 14:34:35] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:34:35] Found 5 transactions
+[2024-11-12 14:34:35] Database connection closed
+[2024-11-12 14:34:35] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:35:06] Starting transaction fetch
+[2024-11-12 14:35:06] Database connected successfully
+[2024-11-12 14:35:06] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:35:06] Found 5 transactions
+[2024-11-12 14:35:06] Database connection closed
+[2024-11-12 14:35:06] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:35:36] Starting transaction fetch
+[2024-11-12 14:35:36] Database connected successfully
+[2024-11-12 14:35:36] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:35:36] Found 5 transactions
+[2024-11-12 14:35:36] Database connection closed
+[2024-11-12 14:35:36] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:36:06] Starting transaction fetch
+[2024-11-12 14:36:06] Database connected successfully
+[2024-11-12 14:36:06] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:36:06] Found 5 transactions
+[2024-11-12 14:36:06] Database connection closed
+[2024-11-12 14:36:06] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:36:36] Starting transaction fetch
+[2024-11-12 14:36:36] Database connected successfully
+[2024-11-12 14:36:36] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:36:36] Found 5 transactions
+[2024-11-12 14:36:36] Database connection closed
+[2024-11-12 14:36:36] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:37:06] Starting transaction fetch
+[2024-11-12 14:37:06] Database connected successfully
+[2024-11-12 14:37:06] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:37:06] Found 5 transactions
+[2024-11-12 14:37:06] Database connection closed
+[2024-11-12 14:37:06] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:37:13] Starting transaction fetch
+[2024-11-12 14:37:13] Database connected successfully
+[2024-11-12 14:37:13] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:37:13] Found 5 transactions
+[2024-11-12 14:37:13] Database connection closed
+[2024-11-12 14:37:13] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:37:33] Starting transaction fetch
+[2024-11-12 14:37:33] Database connected successfully
+[2024-11-12 14:37:33] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:37:33] Found 6 transactions
+[2024-11-12 14:37:33] Database connection closed
+[2024-11-12 14:37:33] Sending response: [{"transaction_id":"ws_CO_12112024163756978757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:37:19","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:38:03] Starting transaction fetch
+[2024-11-12 14:38:03] Database connected successfully
+[2024-11-12 14:38:03] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:38:03] Found 6 transactions
+[2024-11-12 14:38:03] Database connection closed
+[2024-11-12 14:38:03] Sending response: [{"transaction_id":"ws_CO_12112024163756978757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:37:19","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:38:34] Starting transaction fetch
+[2024-11-12 14:38:34] Database connected successfully
+[2024-11-12 14:38:34] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:38:34] Found 6 transactions
+[2024-11-12 14:38:34] Database connection closed
+[2024-11-12 14:38:34] Sending response: [{"transaction_id":"ws_CO_12112024163756978757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:37:19","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:39:04] Starting transaction fetch
+[2024-11-12 14:39:04] Database connected successfully
+[2024-11-12 14:39:04] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:39:04] Found 6 transactions
+[2024-11-12 14:39:04] Database connection closed
+[2024-11-12 14:39:04] Sending response: [{"transaction_id":"ws_CO_12112024163756978757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:37:19","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:39:34] Starting transaction fetch
+[2024-11-12 14:39:34] Database connected successfully
+[2024-11-12 14:39:34] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:39:34] Found 6 transactions
+[2024-11-12 14:39:34] Database connection closed
+[2024-11-12 14:39:34] Sending response: [{"transaction_id":"ws_CO_12112024163756978757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:37:19","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:40:04] Starting transaction fetch
+[2024-11-12 14:40:04] Database connected successfully
+[2024-11-12 14:40:04] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:40:04] Found 6 transactions
+[2024-11-12 14:40:04] Database connection closed
+[2024-11-12 14:40:04] Sending response: [{"transaction_id":"ws_CO_12112024163756978757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:37:19","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:41:05] Starting transaction fetch
+[2024-11-12 14:41:05] Database connected successfully
+[2024-11-12 14:41:05] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:41:05] Found 6 transactions
+[2024-11-12 14:41:05] Database connection closed
+[2024-11-12 14:41:05] Sending response: [{"transaction_id":"ws_CO_12112024163756978757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:37:19","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:41:38] Starting transaction fetch
+[2024-11-12 14:41:38] Database connected successfully
+[2024-11-12 14:41:38] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:41:38] Found 6 transactions
+[2024-11-12 14:41:38] Database connection closed
+[2024-11-12 14:41:38] Sending response: [{"transaction_id":"ws_CO_12112024163756978757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:37:19","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:41:58] Starting transaction fetch
+[2024-11-12 14:41:58] Database connected successfully
+[2024-11-12 14:41:58] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:41:58] Found 7 transactions
+[2024-11-12 14:41:58] Database connection closed
+[2024-11-12 14:41:58] Sending response: [{"transaction_id":"ws_CO_12112024164222705757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:41:44","status":"successful"},{"transaction_id":"ws_CO_12112024163756978757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:37:19","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:42:37] Starting transaction fetch
+[2024-11-12 14:42:37] Database connected successfully
+[2024-11-12 14:42:37] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:42:37] Found 7 transactions
+[2024-11-12 14:42:37] Database connection closed
+[2024-11-12 14:42:37] Sending response: [{"transaction_id":"ws_CO_12112024164222705757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:41:44","status":"successful"},{"transaction_id":"ws_CO_12112024163756978757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:37:19","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"successful"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"successful"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:43:08] Starting transaction fetch
+[2024-11-12 14:43:08] Database connected successfully
+[2024-11-12 14:43:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:43:08] Found 7 transactions
+[2024-11-12 14:43:08] Database connection closed
+[2024-11-12 14:43:08] Sending response: [{"transaction_id":"ws_CO_12112024164222705757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:41:44","status":"successful"},{"transaction_id":"ws_CO_12112024163756978757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:37:19","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:43:10] Starting transaction fetch
+[2024-11-12 14:43:10] Database connected successfully
+[2024-11-12 14:43:10] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:43:10] Found 7 transactions
+[2024-11-12 14:43:10] Database connection closed
+[2024-11-12 14:43:10] Sending response: [{"transaction_id":"ws_CO_12112024164222705757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:41:44","status":"successful"},{"transaction_id":"ws_CO_12112024163756978757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:37:19","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:43:41] Starting transaction fetch
+[2024-11-12 14:43:41] Database connected successfully
+[2024-11-12 14:43:41] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:43:41] Found 7 transactions
+[2024-11-12 14:43:41] Database connection closed
+[2024-11-12 14:43:41] Sending response: [{"transaction_id":"ws_CO_12112024164222705757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:41:44","status":"successful"},{"transaction_id":"ws_CO_12112024163756978757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:37:19","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:44:11] Starting transaction fetch
+[2024-11-12 14:44:11] Database connected successfully
+[2024-11-12 14:44:11] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:44:11] Found 7 transactions
+[2024-11-12 14:44:11] Database connection closed
+[2024-11-12 14:44:11] Sending response: [{"transaction_id":"ws_CO_12112024164222705757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:41:44","status":"successful"},{"transaction_id":"ws_CO_12112024163756978757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:37:19","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:44:19] Starting transaction fetch
+[2024-11-12 14:44:19] Database connected successfully
+[2024-11-12 14:44:19] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:44:19] Found 5 transactions
+[2024-11-12 14:44:19] Database connection closed
+[2024-11-12 14:44:19] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:44:49] Starting transaction fetch
+[2024-11-12 14:44:49] Database connected successfully
+[2024-11-12 14:44:49] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:44:49] Found 5 transactions
+[2024-11-12 14:44:49] Database connection closed
+[2024-11-12 14:44:49] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:45:19] Starting transaction fetch
+[2024-11-12 14:45:19] Database connected successfully
+[2024-11-12 14:45:19] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:45:19] Found 5 transactions
+[2024-11-12 14:45:19] Database connection closed
+[2024-11-12 14:45:19] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:45:49] Starting transaction fetch
+[2024-11-12 14:45:49] Database connected successfully
+[2024-11-12 14:45:49] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:45:49] Found 5 transactions
+[2024-11-12 14:45:49] Database connection closed
+[2024-11-12 14:45:49] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:46:19] Starting transaction fetch
+[2024-11-12 14:46:19] Database connected successfully
+[2024-11-12 14:46:19] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:46:19] Found 5 transactions
+[2024-11-12 14:46:19] Database connection closed
+[2024-11-12 14:46:19] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:46:50] Starting transaction fetch
+[2024-11-12 14:46:50] Database connected successfully
+[2024-11-12 14:46:50] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:46:50] Found 5 transactions
+[2024-11-12 14:46:50] Database connection closed
+[2024-11-12 14:46:50] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:47:20] Starting transaction fetch
+[2024-11-12 14:47:20] Database connected successfully
+[2024-11-12 14:47:20] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:47:20] Found 5 transactions
+[2024-11-12 14:47:20] Database connection closed
+[2024-11-12 14:47:20] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:48:08] Starting transaction fetch
+[2024-11-12 14:48:08] Database connected successfully
+[2024-11-12 14:48:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:48:08] Found 5 transactions
+[2024-11-12 14:48:08] Database connection closed
+[2024-11-12 14:48:08] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:49:08] Starting transaction fetch
+[2024-11-12 14:49:08] Database connected successfully
+[2024-11-12 14:49:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:49:08] Found 5 transactions
+[2024-11-12 14:49:08] Database connection closed
+[2024-11-12 14:49:08] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:50:08] Starting transaction fetch
+[2024-11-12 14:50:08] Database connected successfully
+[2024-11-12 14:50:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:50:08] Found 5 transactions
+[2024-11-12 14:50:08] Database connection closed
+[2024-11-12 14:50:08] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:51:08] Starting transaction fetch
+[2024-11-12 14:51:08] Database connected successfully
+[2024-11-12 14:51:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:51:08] Found 5 transactions
+[2024-11-12 14:51:08] Database connection closed
+[2024-11-12 14:51:08] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:52:08] Starting transaction fetch
+[2024-11-12 14:52:08] Database connected successfully
+[2024-11-12 14:52:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:52:08] Found 5 transactions
+[2024-11-12 14:52:08] Database connection closed
+[2024-11-12 14:52:08] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:52:42] Starting transaction fetch
+[2024-11-12 14:52:42] Database connected successfully
+[2024-11-12 14:52:42] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:52:42] Found 5 transactions
+[2024-11-12 14:52:42] Database connection closed
+[2024-11-12 14:52:42] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:52:45] Starting transaction fetch
+[2024-11-12 14:52:45] Database connected successfully
+[2024-11-12 14:52:45] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:52:45] Found 5 transactions
+[2024-11-12 14:52:45] Database connection closed
+[2024-11-12 14:52:45] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:52:45] Starting transaction fetch
+[2024-11-12 14:52:46] Database connected successfully
+[2024-11-12 14:52:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:52:46] Found 5 transactions
+[2024-11-12 14:52:46] Database connection closed
+[2024-11-12 14:52:46] Sending response: [{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:53:24] Starting transaction fetch
+[2024-11-12 14:53:24] Database connected successfully
+[2024-11-12 14:53:24] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:53:24] Found 6 transactions
+[2024-11-12 14:53:24] Database connection closed
+[2024-11-12 14:53:24] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"successful"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:53:55] Starting transaction fetch
+[2024-11-12 14:53:55] Database connected successfully
+[2024-11-12 14:53:55] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:53:55] Found 6 transactions
+[2024-11-12 14:53:55] Database connection closed
+[2024-11-12 14:53:55] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:54:25] Starting transaction fetch
+[2024-11-12 14:54:25] Database connected successfully
+[2024-11-12 14:54:25] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:54:25] Found 6 transactions
+[2024-11-12 14:54:25] Database connection closed
+[2024-11-12 14:54:25] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:54:54] Starting transaction fetch
+[2024-11-12 14:54:54] Database connected successfully
+[2024-11-12 14:54:54] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:54:54] Found 6 transactions
+[2024-11-12 14:54:54] Database connection closed
+[2024-11-12 14:54:54] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:55:25] Starting transaction fetch
+[2024-11-12 14:55:25] Database connected successfully
+[2024-11-12 14:55:25] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:55:25] Found 6 transactions
+[2024-11-12 14:55:25] Database connection closed
+[2024-11-12 14:55:25] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:55:55] Starting transaction fetch
+[2024-11-12 14:55:55] Database connected successfully
+[2024-11-12 14:55:55] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:55:55] Found 6 transactions
+[2024-11-12 14:55:55] Database connection closed
+[2024-11-12 14:55:55] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:56:24] Starting transaction fetch
+[2024-11-12 14:56:24] Database connected successfully
+[2024-11-12 14:56:24] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:56:24] Found 6 transactions
+[2024-11-12 14:56:24] Database connection closed
+[2024-11-12 14:56:24] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:56:54] Starting transaction fetch
+[2024-11-12 14:56:54] Database connected successfully
+[2024-11-12 14:56:54] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:56:54] Found 6 transactions
+[2024-11-12 14:56:54] Database connection closed
+[2024-11-12 14:56:54] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:57:24] Starting transaction fetch
+[2024-11-12 14:57:24] Database connected successfully
+[2024-11-12 14:57:24] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:57:24] Found 6 transactions
+[2024-11-12 14:57:24] Database connection closed
+[2024-11-12 14:57:24] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:57:54] Starting transaction fetch
+[2024-11-12 14:57:54] Database connected successfully
+[2024-11-12 14:57:54] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:57:54] Found 6 transactions
+[2024-11-12 14:57:54] Database connection closed
+[2024-11-12 14:57:54] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:58:24] Starting transaction fetch
+[2024-11-12 14:58:24] Database connected successfully
+[2024-11-12 14:58:24] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:58:24] Found 6 transactions
+[2024-11-12 14:58:24] Database connection closed
+[2024-11-12 14:58:24] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:58:54] Starting transaction fetch
+[2024-11-12 14:58:54] Database connected successfully
+[2024-11-12 14:58:54] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:58:54] Found 6 transactions
+[2024-11-12 14:58:54] Database connection closed
+[2024-11-12 14:58:54] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:59:24] Starting transaction fetch
+[2024-11-12 14:59:24] Database connected successfully
+[2024-11-12 14:59:24] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:59:24] Found 6 transactions
+[2024-11-12 14:59:24] Database connection closed
+[2024-11-12 14:59:24] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 14:59:54] Starting transaction fetch
+[2024-11-12 14:59:54] Database connected successfully
+[2024-11-12 14:59:54] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 14:59:54] Found 6 transactions
+[2024-11-12 14:59:54] Database connection closed
+[2024-11-12 14:59:54] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:00:25] Starting transaction fetch
+[2024-11-12 15:00:25] Database connected successfully
+[2024-11-12 15:00:25] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:00:25] Found 6 transactions
+[2024-11-12 15:00:25] Database connection closed
+[2024-11-12 15:00:25] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:01:04] Starting transaction fetch
+[2024-11-12 15:01:04] Database connected successfully
+[2024-11-12 15:01:04] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:01:04] Found 6 transactions
+[2024-11-12 15:01:04] Database connection closed
+[2024-11-12 15:01:04] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:01:40] Starting transaction fetch
+[2024-11-12 15:01:40] Database connected successfully
+[2024-11-12 15:01:40] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:01:40] Found 6 transactions
+[2024-11-12 15:01:40] Database connection closed
+[2024-11-12 15:01:40] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:01:55] Starting transaction fetch
+[2024-11-12 15:01:55] Database connected successfully
+[2024-11-12 15:01:55] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:01:55] Found 6 transactions
+[2024-11-12 15:01:55] Database connection closed
+[2024-11-12 15:01:55] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:02:25] Starting transaction fetch
+[2024-11-12 15:02:25] Database connected successfully
+[2024-11-12 15:02:25] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:02:25] Found 6 transactions
+[2024-11-12 15:02:25] Database connection closed
+[2024-11-12 15:02:25] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:03:08] Starting transaction fetch
+[2024-11-12 15:03:08] Database connected successfully
+[2024-11-12 15:03:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:03:08] Found 6 transactions
+[2024-11-12 15:03:08] Database connection closed
+[2024-11-12 15:03:08] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:04:08] Starting transaction fetch
+[2024-11-12 15:04:08] Database connected successfully
+[2024-11-12 15:04:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:04:08] Found 6 transactions
+[2024-11-12 15:04:08] Database connection closed
+[2024-11-12 15:04:08] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:05:08] Starting transaction fetch
+[2024-11-12 15:05:08] Database connected successfully
+[2024-11-12 15:05:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:05:08] Found 6 transactions
+[2024-11-12 15:05:08] Database connection closed
+[2024-11-12 15:05:08] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:05:55] Starting transaction fetch
+[2024-11-12 15:05:55] Database connected successfully
+[2024-11-12 15:05:55] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:05:55] Found 6 transactions
+[2024-11-12 15:05:55] Database connection closed
+[2024-11-12 15:05:55] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:06:25] Starting transaction fetch
+[2024-11-12 15:06:25] Database connected successfully
+[2024-11-12 15:06:25] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:06:25] Found 6 transactions
+[2024-11-12 15:06:25] Database connection closed
+[2024-11-12 15:06:25] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:06:55] Starting transaction fetch
+[2024-11-12 15:06:55] Database connected successfully
+[2024-11-12 15:06:55] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:06:55] Found 6 transactions
+[2024-11-12 15:06:55] Database connection closed
+[2024-11-12 15:06:55] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:07:56] Starting transaction fetch
+[2024-11-12 15:07:56] Database connected successfully
+[2024-11-12 15:07:56] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:07:56] Found 6 transactions
+[2024-11-12 15:07:56] Database connection closed
+[2024-11-12 15:07:56] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:08:57] Starting transaction fetch
+[2024-11-12 15:08:57] Database connected successfully
+[2024-11-12 15:08:57] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:08:57] Found 6 transactions
+[2024-11-12 15:08:57] Database connection closed
+[2024-11-12 15:08:57] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:09:58] Starting transaction fetch
+[2024-11-12 15:09:58] Database connected successfully
+[2024-11-12 15:09:58] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:09:58] Found 6 transactions
+[2024-11-12 15:09:58] Database connection closed
+[2024-11-12 15:09:58] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:10:59] Starting transaction fetch
+[2024-11-12 15:10:59] Database connected successfully
+[2024-11-12 15:10:59] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:10:59] Found 6 transactions
+[2024-11-12 15:10:59] Database connection closed
+[2024-11-12 15:10:59] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:12:04] Starting transaction fetch
+[2024-11-12 15:12:04] Database connected successfully
+[2024-11-12 15:12:04] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:12:04] Found 6 transactions
+[2024-11-12 15:12:04] Database connection closed
+[2024-11-12 15:12:04] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:12:27] Starting transaction fetch
+[2024-11-12 15:12:27] Database connected successfully
+[2024-11-12 15:12:27] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:12:27] Found 6 transactions
+[2024-11-12 15:12:27] Database connection closed
+[2024-11-12 15:12:27] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:12:55] Starting transaction fetch
+[2024-11-12 15:12:55] Database connected successfully
+[2024-11-12 15:12:55] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:12:55] Found 6 transactions
+[2024-11-12 15:12:55] Database connection closed
+[2024-11-12 15:12:55] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:13:56] Starting transaction fetch
+[2024-11-12 15:13:56] Database connected successfully
+[2024-11-12 15:13:56] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:13:56] Found 6 transactions
+[2024-11-12 15:13:56] Database connection closed
+[2024-11-12 15:13:56] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:14:57] Starting transaction fetch
+[2024-11-12 15:14:57] Database connected successfully
+[2024-11-12 15:14:57] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:14:57] Found 6 transactions
+[2024-11-12 15:14:57] Database connection closed
+[2024-11-12 15:14:57] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:15:58] Starting transaction fetch
+[2024-11-12 15:15:58] Database connected successfully
+[2024-11-12 15:15:58] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:15:58] Found 6 transactions
+[2024-11-12 15:15:58] Database connection closed
+[2024-11-12 15:15:58] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:16:59] Starting transaction fetch
+[2024-11-12 15:16:59] Database connected successfully
+[2024-11-12 15:16:59] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:16:59] Found 6 transactions
+[2024-11-12 15:16:59] Database connection closed
+[2024-11-12 15:16:59] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:18:00] Starting transaction fetch
+[2024-11-12 15:18:00] Database connected successfully
+[2024-11-12 15:18:00] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:18:00] Found 6 transactions
+[2024-11-12 15:18:00] Database connection closed
+[2024-11-12 15:18:00] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:19:01] Starting transaction fetch
+[2024-11-12 15:19:01] Database connected successfully
+[2024-11-12 15:19:01] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:19:01] Found 6 transactions
+[2024-11-12 15:19:01] Database connection closed
+[2024-11-12 15:19:01] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:20:02] Starting transaction fetch
+[2024-11-12 15:20:02] Database connected successfully
+[2024-11-12 15:20:02] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:20:02] Found 6 transactions
+[2024-11-12 15:20:02] Database connection closed
+[2024-11-12 15:20:02] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:21:03] Starting transaction fetch
+[2024-11-12 15:21:03] Database connected successfully
+[2024-11-12 15:21:03] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:21:03] Found 6 transactions
+[2024-11-12 15:21:03] Database connection closed
+[2024-11-12 15:21:03] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:22:04] Starting transaction fetch
+[2024-11-12 15:22:04] Database connected successfully
+[2024-11-12 15:22:04] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:22:04] Found 6 transactions
+[2024-11-12 15:22:04] Database connection closed
+[2024-11-12 15:22:04] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:23:05] Starting transaction fetch
+[2024-11-12 15:23:05] Database connected successfully
+[2024-11-12 15:23:05] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:23:05] Found 6 transactions
+[2024-11-12 15:23:05] Database connection closed
+[2024-11-12 15:23:05] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:24:06] Starting transaction fetch
+[2024-11-12 15:24:06] Database connected successfully
+[2024-11-12 15:24:06] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:24:06] Found 6 transactions
+[2024-11-12 15:24:06] Database connection closed
+[2024-11-12 15:24:06] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:25:07] Starting transaction fetch
+[2024-11-12 15:25:07] Database connected successfully
+[2024-11-12 15:25:07] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:25:07] Found 6 transactions
+[2024-11-12 15:25:07] Database connection closed
+[2024-11-12 15:25:07] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:26:08] Starting transaction fetch
+[2024-11-12 15:26:08] Database connected successfully
+[2024-11-12 15:26:08] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:26:08] Found 6 transactions
+[2024-11-12 15:26:08] Database connection closed
+[2024-11-12 15:26:08] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
+[2024-11-12 15:26:37] Starting transaction fetch
+[2024-11-12 15:26:37] Database connected successfully
+[2024-11-12 15:26:37] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-12 15:26:37] Found 6 transactions
+[2024-11-12 15:26:37] Database connection closed
+[2024-11-12 15:26:37] Sending response: [{"transaction_id":"ws_CO_12112024165350957757196660","phone_number":"254757196660","amount":"50000.00","payment_date":"2024-11-12 16:53:13","status":"failed"},{"transaction_id":"ws_CO_12112024163505741757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:34:27","status":"successful"},{"transaction_id":"ws_CO_12112024163151101757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:31:13","status":"successful"},{"transaction_id":"ws_CO_12112024162646833731280074","phone_number":"254731280074","amount":"1.00","payment_date":"2024-11-12 16:26:08","status":"failed"},{"transaction_id":"ws_CO_12112024162439755757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:24:01","status":"failed"},{"transaction_id":"ws_CO_12112024162141261757196660","phone_number":"254757196660","amount":"1.00","payment_date":"2024-11-12 16:21:03","status":"failed"}]
