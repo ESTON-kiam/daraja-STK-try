@@ -94,49 +94,12 @@ if ($data) {
             exit;
         }
 
-        $transaction_id = $response_data->CheckoutRequestID;
-        $phone_number = $PartyA;
-        $amount = $Amount;
-        $payment_date = date('Y-m-d H:i:s');
-        $merchant_request_id = $response_data->MerchantRequestID;
-        $checkout_request_id = $response_data->CheckoutRequestID;
-        $result_code = $response_data->ResponseCode;
-        $result_desc = $response_data->ResponseDescription;
-        $status = ($result_code === '0') ? 'Successful' : 'Failed'; 
-        $created_at = date('Y-m-d H:i:s');
-
-        try {
-            $db = new PDO(
-                "mysql:host=localhost;dbname=ecommerce",
-                "root",
-                "",
-                array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION)
-            );
-
-            $sql = "INSERT INTO mpesa_payments (transaction_id, phone_number, amount, payment_date, merchant_request_id, checkout_request_id, result_code, result_desc, status, created_at) VALUES (:transaction_id, :phone_number, :amount, :payment_date, :merchant_request_id, :checkout_request_id, :result_code, :result_desc, :status, :created_at)";
-            $stmt = $db->prepare($sql);
-            $stmt->bindParam(':transaction_id', $transaction_id);
-            $stmt->bindParam(':phone_number', $phone_number);
-            $stmt->bindParam(':amount', $amount);
-            $stmt->bindParam(':payment_date', $payment_date);
-            $stmt->bindParam(':merchant_request_id', $merchant_request_id);
-            $stmt->bindParam(':checkout_request_id', $checkout_request_id);
-            $stmt->bindParam(':result_code', $result_code);
-            $stmt->bindParam(':result_desc', $result_desc);
-            $stmt->bindParam(':status', $status); 
-            $stmt->bindParam(':created_at', $created_at);
-            $stmt->execute();
-
-            echo json_encode([
-                'ResponseCode' => '0',
-                'CheckoutRequestID' => $response_data->CheckoutRequestID,
-                'CustomerMessage' => $response_data->CustomerMessage,
-                'Status' => $status
-            ]);
-        } catch (PDOException $e) {
-            echo json_encode(['ResponseCode' => '1', 'ResponseDescription' => 'Database error occurred: ' . $e->getMessage()]);
-            exit;
-        }
+        echo json_encode([
+            'ResponseCode' => '0',
+            'CheckoutRequestID' => $response_data->CheckoutRequestID,
+            'CustomerMessage' => $response_data->CustomerMessage,
+            'Status' => ($response_data->ResponseCode === '0') ? 'Successful' : 'Failed'
+        ]);
     } else {
         echo json_encode(['ResponseCode' => '1', 'ResponseDescription' => 'Error fetching access token']);
     }
