@@ -1,0 +1,684 @@
+[2024-11-13 12:09:54] Starting transaction fetch
+[2024-11-13 12:09:54] Database connected successfully
+[2024-11-13 12:09:54] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:09:54] No transactions found
+[2024-11-13 12:09:54] Database connection closed
+[2024-11-13 12:09:54] Sending response: []
+[2024-11-13 12:16:01] Starting transaction fetch
+[2024-11-13 12:16:01] Database connected successfully
+[2024-11-13 12:16:01] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:16:01] No transactions found
+[2024-11-13 12:16:01] Database connection closed
+[2024-11-13 12:16:01] Sending response: []
+[2024-11-13 12:16:32] Starting transaction fetch
+[2024-11-13 12:16:32] Database connected successfully
+[2024-11-13 12:16:32] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:16:32] No transactions found
+[2024-11-13 12:16:32] Database connection closed
+[2024-11-13 12:16:32] Sending response: []
+[2024-11-13 12:17:02] Starting transaction fetch
+[2024-11-13 12:17:02] Database connected successfully
+[2024-11-13 12:17:02] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:17:02] No transactions found
+[2024-11-13 12:17:02] Database connection closed
+[2024-11-13 12:17:02] Sending response: []
+[2024-11-13 12:32:23] Starting transaction fetch
+[2024-11-13 12:32:23] Database connected successfully
+[2024-11-13 12:32:23] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:32:23] No transactions found
+[2024-11-13 12:32:23] Database connection closed
+[2024-11-13 12:32:23] Sending response: []
+[2024-11-13 12:32:32] Starting transaction fetch
+[2024-11-13 12:32:32] Database connected successfully
+[2024-11-13 12:32:32] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:32:32] No transactions found
+[2024-11-13 12:32:32] Database connection closed
+[2024-11-13 12:32:32] Sending response: []
+[2024-11-13 12:33:02] Starting transaction fetch
+[2024-11-13 12:33:02] Database connected successfully
+[2024-11-13 12:33:02] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:33:02] No transactions found
+[2024-11-13 12:33:02] Database connection closed
+[2024-11-13 12:33:02] Sending response: []
+[2024-11-13 12:33:46] Starting transaction fetch
+[2024-11-13 12:33:46] Database connected successfully
+[2024-11-13 12:33:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:33:46] No transactions found
+[2024-11-13 12:33:46] Database connection closed
+[2024-11-13 12:33:46] Sending response: []
+[2024-11-13 12:34:46] Starting transaction fetch
+[2024-11-13 12:34:46] Database connected successfully
+[2024-11-13 12:34:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:34:46] No transactions found
+[2024-11-13 12:34:46] Database connection closed
+[2024-11-13 12:34:46] Sending response: []
+[2024-11-13 12:35:46] Starting transaction fetch
+[2024-11-13 12:35:46] Database connected successfully
+[2024-11-13 12:35:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:35:46] No transactions found
+[2024-11-13 12:35:46] Database connection closed
+[2024-11-13 12:35:46] Sending response: []
+[2024-11-13 12:36:46] Starting transaction fetch
+[2024-11-13 12:36:46] Database connected successfully
+[2024-11-13 12:36:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:36:46] No transactions found
+[2024-11-13 12:36:46] Database connection closed
+[2024-11-13 12:36:46] Sending response: []
+[2024-11-13 12:37:46] Starting transaction fetch
+[2024-11-13 12:37:46] Database connected successfully
+[2024-11-13 12:37:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:37:46] No transactions found
+[2024-11-13 12:37:46] Database connection closed
+[2024-11-13 12:37:46] Sending response: []
+[2024-11-13 12:38:46] Starting transaction fetch
+[2024-11-13 12:38:46] Database connected successfully
+[2024-11-13 12:38:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:38:46] No transactions found
+[2024-11-13 12:38:46] Database connection closed
+[2024-11-13 12:38:46] Sending response: []
+[2024-11-13 12:39:46] Starting transaction fetch
+[2024-11-13 12:39:46] Database connected successfully
+[2024-11-13 12:39:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:39:46] No transactions found
+[2024-11-13 12:39:46] Database connection closed
+[2024-11-13 12:39:46] Sending response: []
+[2024-11-13 12:40:46] Starting transaction fetch
+[2024-11-13 12:40:46] Database connected successfully
+[2024-11-13 12:40:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:40:46] No transactions found
+[2024-11-13 12:40:46] Database connection closed
+[2024-11-13 12:40:46] Sending response: []
+[2024-11-13 12:41:46] Starting transaction fetch
+[2024-11-13 12:41:46] Database connected successfully
+[2024-11-13 12:41:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:41:46] No transactions found
+[2024-11-13 12:41:46] Database connection closed
+[2024-11-13 12:41:46] Sending response: []
+[2024-11-13 12:42:46] Starting transaction fetch
+[2024-11-13 12:42:46] Database connected successfully
+[2024-11-13 12:42:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:42:46] No transactions found
+[2024-11-13 12:42:46] Database connection closed
+[2024-11-13 12:42:46] Sending response: []
+[2024-11-13 12:43:46] Starting transaction fetch
+[2024-11-13 12:43:46] Database connected successfully
+[2024-11-13 12:43:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:43:46] No transactions found
+[2024-11-13 12:43:46] Database connection closed
+[2024-11-13 12:43:46] Sending response: []
+[2024-11-13 12:44:46] Starting transaction fetch
+[2024-11-13 12:44:46] Database connected successfully
+[2024-11-13 12:44:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:44:46] No transactions found
+[2024-11-13 12:44:46] Database connection closed
+[2024-11-13 12:44:46] Sending response: []
+[2024-11-13 12:45:46] Starting transaction fetch
+[2024-11-13 12:45:46] Database connected successfully
+[2024-11-13 12:45:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:45:46] No transactions found
+[2024-11-13 12:45:46] Database connection closed
+[2024-11-13 12:45:46] Sending response: []
+[2024-11-13 12:46:46] Starting transaction fetch
+[2024-11-13 12:46:46] Database connected successfully
+[2024-11-13 12:46:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:46:46] No transactions found
+[2024-11-13 12:46:46] Database connection closed
+[2024-11-13 12:46:46] Sending response: []
+[2024-11-13 12:47:46] Starting transaction fetch
+[2024-11-13 12:47:46] Database connected successfully
+[2024-11-13 12:47:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:47:46] No transactions found
+[2024-11-13 12:47:46] Database connection closed
+[2024-11-13 12:47:46] Sending response: []
+[2024-11-13 12:48:46] Starting transaction fetch
+[2024-11-13 12:48:46] Database connected successfully
+[2024-11-13 12:48:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:48:46] No transactions found
+[2024-11-13 12:48:46] Database connection closed
+[2024-11-13 12:48:46] Sending response: []
+[2024-11-13 12:49:46] Starting transaction fetch
+[2024-11-13 12:49:46] Database connected successfully
+[2024-11-13 12:49:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:49:46] No transactions found
+[2024-11-13 12:49:46] Database connection closed
+[2024-11-13 12:49:46] Sending response: []
+[2024-11-13 12:50:46] Starting transaction fetch
+[2024-11-13 12:50:46] Database connected successfully
+[2024-11-13 12:50:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:50:46] No transactions found
+[2024-11-13 12:50:46] Database connection closed
+[2024-11-13 12:50:46] Sending response: []
+[2024-11-13 12:51:46] Starting transaction fetch
+[2024-11-13 12:51:46] Database connected successfully
+[2024-11-13 12:51:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:51:46] No transactions found
+[2024-11-13 12:51:46] Database connection closed
+[2024-11-13 12:51:46] Sending response: []
+[2024-11-13 12:52:46] Starting transaction fetch
+[2024-11-13 12:52:46] Database connected successfully
+[2024-11-13 12:52:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:52:46] No transactions found
+[2024-11-13 12:52:46] Database connection closed
+[2024-11-13 12:52:46] Sending response: []
+[2024-11-13 12:53:46] Starting transaction fetch
+[2024-11-13 12:53:46] Database connected successfully
+[2024-11-13 12:53:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:53:46] No transactions found
+[2024-11-13 12:53:46] Database connection closed
+[2024-11-13 12:53:46] Sending response: []
+[2024-11-13 12:54:46] Starting transaction fetch
+[2024-11-13 12:54:46] Database connected successfully
+[2024-11-13 12:54:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:54:46] No transactions found
+[2024-11-13 12:54:46] Database connection closed
+[2024-11-13 12:54:46] Sending response: []
+[2024-11-13 12:55:46] Starting transaction fetch
+[2024-11-13 12:55:46] Database connected successfully
+[2024-11-13 12:55:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:55:46] No transactions found
+[2024-11-13 12:55:46] Database connection closed
+[2024-11-13 12:55:46] Sending response: []
+[2024-11-13 12:56:46] Starting transaction fetch
+[2024-11-13 12:56:46] Database connected successfully
+[2024-11-13 12:56:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:56:46] No transactions found
+[2024-11-13 12:56:46] Database connection closed
+[2024-11-13 12:56:46] Sending response: []
+[2024-11-13 12:57:46] Starting transaction fetch
+[2024-11-13 12:57:46] Database connected successfully
+[2024-11-13 12:57:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:57:46] No transactions found
+[2024-11-13 12:57:46] Database connection closed
+[2024-11-13 12:57:46] Sending response: []
+[2024-11-13 12:58:27] Starting transaction fetch
+[2024-11-13 12:58:27] Database connected successfully
+[2024-11-13 12:58:27] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 12:58:27] No transactions found
+[2024-11-13 12:58:27] Database connection closed
+[2024-11-13 12:58:27] Sending response: []
+[2024-11-13 13:01:04] Starting transaction fetch
+[2024-11-13 13:01:04] Database connected successfully
+[2024-11-13 13:01:04] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:01:04] No transactions found
+[2024-11-13 13:01:04] Database connection closed
+[2024-11-13 13:01:04] Sending response: []
+[2024-11-13 13:13:31] Starting transaction fetch
+[2024-11-13 13:13:31] Database connected successfully
+[2024-11-13 13:13:31] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:13:31] No transactions found
+[2024-11-13 13:13:31] Database connection closed
+[2024-11-13 13:13:31] Sending response: []
+[2024-11-13 13:14:01] Starting transaction fetch
+[2024-11-13 13:14:01] Database connected successfully
+[2024-11-13 13:14:01] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:14:01] No transactions found
+[2024-11-13 13:14:01] Database connection closed
+[2024-11-13 13:14:01] Sending response: []
+[2024-11-13 13:14:31] Starting transaction fetch
+[2024-11-13 13:14:31] Database connected successfully
+[2024-11-13 13:14:31] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:14:31] No transactions found
+[2024-11-13 13:14:31] Database connection closed
+[2024-11-13 13:14:31] Sending response: []
+[2024-11-13 13:15:01] Starting transaction fetch
+[2024-11-13 13:15:01] Database connected successfully
+[2024-11-13 13:15:01] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:15:01] No transactions found
+[2024-11-13 13:15:01] Database connection closed
+[2024-11-13 13:15:01] Sending response: []
+[2024-11-13 13:15:32] Starting transaction fetch
+[2024-11-13 13:15:32] Database connected successfully
+[2024-11-13 13:15:32] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:15:32] No transactions found
+[2024-11-13 13:15:32] Database connection closed
+[2024-11-13 13:15:32] Sending response: []
+[2024-11-13 13:16:02] Starting transaction fetch
+[2024-11-13 13:16:02] Database connected successfully
+[2024-11-13 13:16:02] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:16:02] No transactions found
+[2024-11-13 13:16:02] Database connection closed
+[2024-11-13 13:16:02] Sending response: []
+[2024-11-13 13:16:46] Starting transaction fetch
+[2024-11-13 13:16:46] Database connected successfully
+[2024-11-13 13:16:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:16:46] No transactions found
+[2024-11-13 13:16:46] Database connection closed
+[2024-11-13 13:16:46] Sending response: []
+[2024-11-13 13:17:46] Starting transaction fetch
+[2024-11-13 13:17:46] Database connected successfully
+[2024-11-13 13:17:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:17:46] No transactions found
+[2024-11-13 13:17:46] Database connection closed
+[2024-11-13 13:17:46] Sending response: []
+[2024-11-13 13:18:46] Starting transaction fetch
+[2024-11-13 13:18:46] Database connected successfully
+[2024-11-13 13:18:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:18:46] No transactions found
+[2024-11-13 13:18:46] Database connection closed
+[2024-11-13 13:18:46] Sending response: []
+[2024-11-13 13:19:46] Starting transaction fetch
+[2024-11-13 13:19:46] Database connected successfully
+[2024-11-13 13:19:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:19:46] No transactions found
+[2024-11-13 13:19:46] Database connection closed
+[2024-11-13 13:19:46] Sending response: []
+[2024-11-13 13:20:46] Starting transaction fetch
+[2024-11-13 13:20:46] Database connected successfully
+[2024-11-13 13:20:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:20:46] No transactions found
+[2024-11-13 13:20:46] Database connection closed
+[2024-11-13 13:20:46] Sending response: []
+[2024-11-13 13:21:46] Starting transaction fetch
+[2024-11-13 13:21:46] Database connected successfully
+[2024-11-13 13:21:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:21:46] No transactions found
+[2024-11-13 13:21:46] Database connection closed
+[2024-11-13 13:21:46] Sending response: []
+[2024-11-13 13:22:46] Starting transaction fetch
+[2024-11-13 13:22:46] Database connected successfully
+[2024-11-13 13:22:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:22:46] No transactions found
+[2024-11-13 13:22:46] Database connection closed
+[2024-11-13 13:22:46] Sending response: []
+[2024-11-13 13:23:46] Starting transaction fetch
+[2024-11-13 13:23:46] Database connected successfully
+[2024-11-13 13:23:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:23:46] No transactions found
+[2024-11-13 13:23:46] Database connection closed
+[2024-11-13 13:23:46] Sending response: []
+[2024-11-13 13:24:46] Starting transaction fetch
+[2024-11-13 13:24:46] Database connected successfully
+[2024-11-13 13:24:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:24:46] No transactions found
+[2024-11-13 13:24:46] Database connection closed
+[2024-11-13 13:24:46] Sending response: []
+[2024-11-13 13:25:46] Starting transaction fetch
+[2024-11-13 13:25:46] Database connected successfully
+[2024-11-13 13:25:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:25:46] No transactions found
+[2024-11-13 13:25:46] Database connection closed
+[2024-11-13 13:25:46] Sending response: []
+[2024-11-13 13:26:53] Starting transaction fetch
+[2024-11-13 13:26:53] Database connected successfully
+[2024-11-13 13:26:53] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:26:53] No transactions found
+[2024-11-13 13:26:53] Database connection closed
+[2024-11-13 13:26:53] Sending response: []
+[2024-11-13 13:27:46] Starting transaction fetch
+[2024-11-13 13:27:46] Database connected successfully
+[2024-11-13 13:27:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:27:46] No transactions found
+[2024-11-13 13:27:46] Database connection closed
+[2024-11-13 13:27:46] Sending response: []
+[2024-11-13 13:28:46] Starting transaction fetch
+[2024-11-13 13:28:46] Database connected successfully
+[2024-11-13 13:28:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:28:46] No transactions found
+[2024-11-13 13:28:46] Database connection closed
+[2024-11-13 13:28:46] Sending response: []
+[2024-11-13 13:29:46] Starting transaction fetch
+[2024-11-13 13:29:46] Database connected successfully
+[2024-11-13 13:29:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:29:46] No transactions found
+[2024-11-13 13:29:46] Database connection closed
+[2024-11-13 13:29:46] Sending response: []
+[2024-11-13 13:30:46] Starting transaction fetch
+[2024-11-13 13:30:53] Database connected successfully
+[2024-11-13 13:30:53] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:30:53] No transactions found
+[2024-11-13 13:30:53] Database connection closed
+[2024-11-13 13:30:53] Sending response: []
+[2024-11-13 13:31:46] Starting transaction fetch
+[2024-11-13 13:31:46] Database connected successfully
+[2024-11-13 13:31:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:31:46] No transactions found
+[2024-11-13 13:31:46] Database connection closed
+[2024-11-13 13:31:46] Sending response: []
+[2024-11-13 13:32:46] Starting transaction fetch
+[2024-11-13 13:32:46] Database connected successfully
+[2024-11-13 13:32:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:32:46] No transactions found
+[2024-11-13 13:32:46] Database connection closed
+[2024-11-13 13:32:46] Sending response: []
+[2024-11-13 13:33:46] Starting transaction fetch
+[2024-11-13 13:33:46] Database connected successfully
+[2024-11-13 13:33:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:33:46] No transactions found
+[2024-11-13 13:33:46] Database connection closed
+[2024-11-13 13:33:46] Sending response: []
+[2024-11-13 13:34:46] Starting transaction fetch
+[2024-11-13 13:34:46] Database connected successfully
+[2024-11-13 13:34:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:34:46] No transactions found
+[2024-11-13 13:34:46] Database connection closed
+[2024-11-13 13:34:46] Sending response: []
+[2024-11-13 13:35:46] Starting transaction fetch
+[2024-11-13 13:35:46] Database connected successfully
+[2024-11-13 13:35:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:35:46] No transactions found
+[2024-11-13 13:35:46] Database connection closed
+[2024-11-13 13:35:46] Sending response: []
+[2024-11-13 13:36:46] Starting transaction fetch
+[2024-11-13 13:36:46] Database connected successfully
+[2024-11-13 13:36:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:36:46] No transactions found
+[2024-11-13 13:36:46] Database connection closed
+[2024-11-13 13:36:46] Sending response: []
+[2024-11-13 13:37:46] Starting transaction fetch
+[2024-11-13 13:37:46] Database connected successfully
+[2024-11-13 13:37:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:37:46] No transactions found
+[2024-11-13 13:37:46] Database connection closed
+[2024-11-13 13:37:46] Sending response: []
+[2024-11-13 13:38:46] Starting transaction fetch
+[2024-11-13 13:38:46] Database connected successfully
+[2024-11-13 13:38:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:38:46] No transactions found
+[2024-11-13 13:38:46] Database connection closed
+[2024-11-13 13:38:46] Sending response: []
+[2024-11-13 13:39:46] Starting transaction fetch
+[2024-11-13 13:39:46] Database connected successfully
+[2024-11-13 13:39:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:39:46] No transactions found
+[2024-11-13 13:39:46] Database connection closed
+[2024-11-13 13:39:46] Sending response: []
+[2024-11-13 13:40:46] Starting transaction fetch
+[2024-11-13 13:40:46] Database connected successfully
+[2024-11-13 13:40:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:40:46] No transactions found
+[2024-11-13 13:40:46] Database connection closed
+[2024-11-13 13:40:46] Sending response: []
+[2024-11-13 13:41:46] Starting transaction fetch
+[2024-11-13 13:41:46] Database connected successfully
+[2024-11-13 13:41:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:41:46] No transactions found
+[2024-11-13 13:41:46] Database connection closed
+[2024-11-13 13:41:46] Sending response: []
+[2024-11-13 13:42:46] Starting transaction fetch
+[2024-11-13 13:42:46] Database connected successfully
+[2024-11-13 13:42:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:42:46] No transactions found
+[2024-11-13 13:42:46] Database connection closed
+[2024-11-13 13:42:46] Sending response: []
+[2024-11-13 13:43:46] Starting transaction fetch
+[2024-11-13 13:43:46] Database connected successfully
+[2024-11-13 13:43:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:43:46] No transactions found
+[2024-11-13 13:43:46] Database connection closed
+[2024-11-13 13:43:46] Sending response: []
+[2024-11-13 13:44:46] Starting transaction fetch
+[2024-11-13 13:44:46] Database connected successfully
+[2024-11-13 13:44:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:44:46] No transactions found
+[2024-11-13 13:44:46] Database connection closed
+[2024-11-13 13:44:46] Sending response: []
+[2024-11-13 13:45:46] Starting transaction fetch
+[2024-11-13 13:45:46] Database connected successfully
+[2024-11-13 13:45:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:45:46] No transactions found
+[2024-11-13 13:45:46] Database connection closed
+[2024-11-13 13:45:46] Sending response: []
+[2024-11-13 13:46:46] Starting transaction fetch
+[2024-11-13 13:46:46] Database connected successfully
+[2024-11-13 13:46:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:46:46] No transactions found
+[2024-11-13 13:46:46] Database connection closed
+[2024-11-13 13:46:46] Sending response: []
+[2024-11-13 13:47:46] Starting transaction fetch
+[2024-11-13 13:47:46] Database connected successfully
+[2024-11-13 13:47:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:47:46] No transactions found
+[2024-11-13 13:47:46] Database connection closed
+[2024-11-13 13:47:46] Sending response: []
+[2024-11-13 13:48:46] Starting transaction fetch
+[2024-11-13 13:48:46] Database connected successfully
+[2024-11-13 13:48:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:48:46] No transactions found
+[2024-11-13 13:48:46] Database connection closed
+[2024-11-13 13:48:46] Sending response: []
+[2024-11-13 13:49:46] Starting transaction fetch
+[2024-11-13 13:49:46] Database connected successfully
+[2024-11-13 13:49:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:49:46] No transactions found
+[2024-11-13 13:49:46] Database connection closed
+[2024-11-13 13:49:46] Sending response: []
+[2024-11-13 13:50:46] Starting transaction fetch
+[2024-11-13 13:50:46] Database connected successfully
+[2024-11-13 13:50:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:50:46] No transactions found
+[2024-11-13 13:50:46] Database connection closed
+[2024-11-13 13:50:46] Sending response: []
+[2024-11-13 13:51:46] Starting transaction fetch
+[2024-11-13 13:51:46] Database connected successfully
+[2024-11-13 13:51:46] Executing query: SELECT transaction_id, phone_number, amount, payment_date, status 
+          FROM mpesa_payments 
+          ORDER BY payment_date DESC 
+          LIMIT 10
+[2024-11-13 13:51:46] No transactions found
+[2024-11-13 13:51:46] Database connection closed
+[2024-11-13 13:51:46] Sending response: []

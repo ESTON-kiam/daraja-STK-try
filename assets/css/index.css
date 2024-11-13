@@ -1,50 +1,181 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #f4f6f9;
+    background-color: #f4f7fa;
+    color: #333;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
 }
 
-.container {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 40px 15px;
-}
-
-.payment-card {
-    border-radius: 15px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    padding: 30px;
-    margin-bottom: 30px;
-}
-
-h4, h5 {
+h5, h4 {
     font-weight: 600;
 }
 
-.text-muted {
-    color: #6c757d;
+small {
+    font-size: 0.875rem;
 }
 
-.text-center {
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+
+header {
+    background-color: #343a40;
+    padding: 15px 0;
+    text-align: center;
+    color: #fff;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+
+.payment-status {
+    display: none;
+    border-radius: 10px;
+    padding: 25px 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+.payment-card {
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 25px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
 
+.payment-status .status-icon {
+    font-size: 50px;
+    margin-bottom: 15px;
+}
 
-h1, h4 {
-    color: #3c4858;
+.payment-status .progress-bar {
+    height: 4px;
+    background-color: #007bff;
+}
+
+.payment-status h5 {
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.payment-status p {
+    font-size: 1rem;
+    color: #888;
+}
+
+#success-status {
+    color: #28a745;
+}
+
+#failed-status {
+    color: #dc3545;
+}
+
+#awaiting-status {
+    color: #007bff;
+}
+
+
+.card {
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    padding: 30px;
+}
+
+.form-label {
+    font-size: 1.1rem;
+    color: #333;
+}
+
+.input-group-text {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: 600;
+}
+
+input[type="number"],
+input[type="tel"],
+input[type="text"] {
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    padding: 12px;
+    font-size: 1rem;
+}
+
+input[type="number"]:focus,
+input[type="tel"]:focus,
+input[type="text"]:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+.d-grid button {
+    background-color: #007bff;
+    border: none;
+    padding: 15px;
+    font-size: 1.2rem;
+    color: #fff;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.d-grid button:hover {
+    background-color: #0056b3;
+}
+
+input[type="number"]::placeholder,
+input[type="tel"]::placeholder {
+    color: #888;
+}
+
+
+.btn-outline-primary {
+    border-color: #007bff;
+    color: #007bff;
+    font-weight: 600;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+
+.btn-outline-primary:hover {
+    background-color: #007bff;
+    color: #fff;
+}
+
+
+.phone-input-group {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.phone-prefix {
+    font-size: 1.2rem;
+    margin-right: 10px;
+    color: #007bff;
 }
 
 
 .spinner {
-    border: 3px solid rgba(255, 255, 255, 0.3);
-    border-top: 3px solid #3498db;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #007bff;
     border-radius: 50%;
     width: 40px;
     height: 40px;
-    animation: spin 1s linear infinite;
-    margin: 0 auto;
+    animation: spin 2s linear infinite;
 }
 
 @keyframes spin {
@@ -52,164 +183,38 @@ h1, h4 {
     100% { transform: rotate(360deg); }
 }
 
-.payment-status {
-    display: none;
+
+.text-center.mt-4 {
+    margin-top: 40px;
 }
 
-.status-icon {
-    font-size: 50px;
+.text-center.mt-4 .btn-outline-primary {
+    font-size: 1.1rem;
+    padding: 12px 30px;
+    border-radius: 30px;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.payment-card .transaction-details {
-    background-color: #f7f7f7;
-    border-radius: 10px;
-    padding: 20px;
-    margin-top: 20px;
+.text-center.mt-4 .btn-outline-primary:hover {
+    background-color: #007bff;
+    color: #fff;
 }
 
+@media (max-width: 768px) {
+    .payment-status {
+        padding: 20px;
+    }
 
-input[type="number"], input[type="tel"], input[type="text"], .form-control {
-    border-radius: 8px;
-    border: 1px solid #ddd;
-    padding: 12px 15px;
-    font-size: 1rem;
-    margin-top: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-input[type="number"]:focus, input[type="tel"]:focus {
-    border-color: #3498db;
-    outline: none;
-    box-shadow: 0 0 8px rgba(52, 152, 219, 0.3);
-}
-
-input[type="number"]::placeholder, input[type="tel"]::placeholder {
-    color: #aaa;
-}
-
-
-button {
-    border-radius: 8px;
-    padding: 12px 20px;
-    font-size: 1rem;
-    width: 100%;
-}
-
-button:focus {
-    outline: none;
-    box-shadow: 0 0 8px rgba(52, 152, 219, 0.3);
-}
-
-.btn-primary {
-    background-color: #3498db;
-    border-color: #3498db;
-}
-
-.btn-primary:hover {
-    background-color: #2980b9;
-    border-color: #2980b9;
-}
-
-.btn-outline-primary {
-    color: #3498db;
-    border-color: #3498db;
-}
-
-.btn-outline-primary:hover {
-    background-color: #3498db;
-    color: white;
-}
-
-.btn-outline-primary i {
-    margin-right: 8px;
-}
-
-
-.progress {
-    height: 8px;
-    margin-top: 20px;
-    background-color: #f4f6f9;
-    border-radius: 8px;
-}
-
-.progress-bar {
-    background-color: #3498db;
-    border-radius: 8px;
-}
-
-
-.input-group-text {
-    background-color: #f4f6f9;
-    border-right: 0;
-    font-weight: 600;
-}
-
-
-@media (max-width: 767px) {
-    .container {
-        padding: 15px;
+    .payment-status h5 {
+        font-size: 1rem;
     }
 
     .payment-card {
         padding: 20px;
     }
-}
 
-.phone-input-group {
-    display: flex;
-    align-items: center;
-}
-
-.phone-prefix {
-    color: #3498db;
-    font-weight: 600;
-    padding-right: 10px;
-}
-
-.phone-input {
-    border-radius: 8px;
-    padding-left: 10px;
-    margin-left: 10px;
-}
-
-
-#processing-status, #awaiting-status, #success-status, #failed-status {
-    display: none;
-}
-
-#awaiting-status {
-    color: #3498db;
-}
-
-#success-status {
-    color: #2ecc71;
-}
-
-#failed-status {
-    color: #e74c3c;
-}
-
-#awaiting-status .status-icon {
-    font-size: 60px;
-}
-
-#success-status .status-icon {
-    font-size: 60px;
-}
-
-#failed-status .status-icon {
-    font-size: 60px;
-}
-
-
-footer {
-    text-align: center;
-    padding: 20px;
-    font-size: 0.9rem;
-    color: #888;
-}
-
-footer a {
-    color: #3498db;
-    text-decoration: none;
+    .payment-form {
+        padding: 10px;
+    }
 }
