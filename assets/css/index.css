@@ -1,0 +1,215 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 15px;
+}
+
+.payment-card {
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+h4, h5 {
+    font-weight: 600;
+}
+
+.text-muted {
+    color: #6c757d;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+h1, h4 {
+    color: #3c4858;
+}
+
+
+.spinner {
+    border: 3px solid rgba(255, 255, 255, 0.3);
+    border-top: 3px solid #3498db;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+    margin: 0 auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.payment-status {
+    display: none;
+}
+
+.status-icon {
+    font-size: 50px;
+}
+
+.payment-card .transaction-details {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+input[type="number"], input[type="tel"], input[type="text"], .form-control {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 12px 15px;
+    font-size: 1rem;
+    margin-top: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+input[type="number"]:focus, input[type="tel"]:focus {
+    border-color: #3498db;
+    outline: none;
+    box-shadow: 0 0 8px rgba(52, 152, 219, 0.3);
+}
+
+input[type="number"]::placeholder, input[type="tel"]::placeholder {
+    color: #aaa;
+}
+
+
+button {
+    border-radius: 8px;
+    padding: 12px 20px;
+    font-size: 1rem;
+    width: 100%;
+}
+
+button:focus {
+    outline: none;
+    box-shadow: 0 0 8px rgba(52, 152, 219, 0.3);
+}
+
+.btn-primary {
+    background-color: #3498db;
+    border-color: #3498db;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+    border-color: #2980b9;
+}
+
+.btn-outline-primary {
+    color: #3498db;
+    border-color: #3498db;
+}
+
+.btn-outline-primary:hover {
+    background-color: #3498db;
+    color: white;
+}
+
+.btn-outline-primary i {
+    margin-right: 8px;
+}
+
+
+.progress {
+    height: 8px;
+    margin-top: 20px;
+    background-color: #f4f6f9;
+    border-radius: 8px;
+}
+
+.progress-bar {
+    background-color: #3498db;
+    border-radius: 8px;
+}
+
+
+.input-group-text {
+    background-color: #f4f6f9;
+    border-right: 0;
+    font-weight: 600;
+}
+
+
+@media (max-width: 767px) {
+    .container {
+        padding: 15px;
+    }
+
+    .payment-card {
+        padding: 20px;
+    }
+}
+
+.phone-input-group {
+    display: flex;
+    align-items: center;
+}
+
+.phone-prefix {
+    color: #3498db;
+    font-weight: 600;
+    padding-right: 10px;
+}
+
+.phone-input {
+    border-radius: 8px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+
+#processing-status, #awaiting-status, #success-status, #failed-status {
+    display: none;
+}
+
+#awaiting-status {
+    color: #3498db;
+}
+
+#success-status {
+    color: #2ecc71;
+}
+
+#failed-status {
+    color: #e74c3c;
+}
+
+#awaiting-status .status-icon {
+    font-size: 60px;
+}
+
+#success-status .status-icon {
+    font-size: 60px;
+}
+
+#failed-status .status-icon {
+    font-size: 60px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9rem;
+    color: #888;
+}
+
+footer a {
+    color: #3498db;
+    text-decoration: none;
+}

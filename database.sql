@@ -1,14 +1,14 @@
 CREATE TABLE mpesa_payments (
-  id int(11) NOT NULL AUTO_INCREMENT,
-  transaction_id varchar(255) NOT NULL,
-  phone_number varchar(20) NOT NULL,
-  amount decimal(10,2) NOT NULL,
-  payment_date datetime NOT NULL,
-  merchant_request_id varchar(255) NOT NULL,
-  checkout_request_id varchar(255) NOT NULL,
-  result_code varchar(20) NOT NULL,
-  result_desc text NOT NULL,
-  status varchar(20) NOT NULL,
-  created_at datetime NOT NULL,
-  PRIMARY KEY (id)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4; 
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    transaction_id VARCHAR(50) UNIQUE, 
+    phone_number VARCHAR(15),          
+    amount DECIMAL(10, 2),            
+    payment_date DATETIME,             
+    merchant_request_id VARCHAR(50),   
+    checkout_request_id VARCHAR(50),   
+    result_code INT,                  
+    result_desc VARCHAR(255),          
+    status ENUM('successful', 'failed', 'pending'), 
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
